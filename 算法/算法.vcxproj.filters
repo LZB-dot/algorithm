@@ -1,0 +1,2565 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="比赛">
+      <UniqueIdentifier>{a3302469-f782-4657-a26f-3929c3263225}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="比赛\牛客周赛 Round 110">
+      <UniqueIdentifier>{baa15851-17a5-4879-97d5-df907d6e1eab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="比赛\新生赛验题">
+      <UniqueIdentifier>{7f775584-1456-485d-b554-ec4a2e0d7988}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="每日一题">
+      <UniqueIdentifier>{95c36c9f-b06c-4847-8368-815f938031f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="比赛\牛客周赛 Round 117">
+      <UniqueIdentifier>{fe52f038-ba84-42da-8693-0e43ec04fa32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="比赛\牛客周赛 Round 118">
+      <UniqueIdentifier>{7c7f068d-878a-40a6-b598-0ae64cee2128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练">
+      <UniqueIdentifier>{50a4d0f0-68f8-40d3-acf4-2847f2518118}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\4.5状态压缩动态规划">
+      <UniqueIdentifier>{f1a685c3-4f11-499d-bb45-ce48ee634947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\5.4Trie树">
+      <UniqueIdentifier>{a3babf50-32fd-44fa-a99a-4bb44a3dfed0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\7.4并查集">
+      <UniqueIdentifier>{10a6a16d-f200-4afd-9fc1-600b5b4036d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\4.3线性动态规划">
+      <UniqueIdentifier>{47b1b024-e465-4a9b-9448-7eeca8e7f9a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\2.1模拟">
+      <UniqueIdentifier>{6c8f0773-6b8b-4c99-8e3b-1e9e3a8a6f67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\4.11数位动态规划">
+      <UniqueIdentifier>{308d5951-3f35-48ad-943e-66cf3f46a916}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\003-二进制与位运算">
+      <UniqueIdentifier>{4a63fe42-2faf-4698-8616-7e7efd634988}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\006-二分搜索">
+      <UniqueIdentifier>{3b5d1616-6832-4233-acdf-0224940fafb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\089-贪心算法专题1">
+      <UniqueIdentifier>{13a171ca-73dc-4fdb-9c60-4dee8ec6dae9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\009-链表">
+      <UniqueIdentifier>{70e2344f-91af-4448-a00d-52f87e125142}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\090-贪心算法专题2">
+      <UniqueIdentifier>{17143177-c7c5-4622-be98-881d56e27bc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\091-贪心算法专题3">
+      <UniqueIdentifier>{de135daf-6206-4953-bcb5-35ffc3f61082}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\092-贪心算法专题4">
+      <UniqueIdentifier>{ce66002f-4fb6-42b0-8946-1326754d9e43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\093-贪心算法专题5">
+      <UniqueIdentifier>{64b16887-1d2a-484c-8cb1-9dd01d53391f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\094-贪心算法专题6">
+      <UniqueIdentifier>{f24ae8b9-9be5-4a9a-adcb-68cb3df2e980}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="数论">
+      <UniqueIdentifier>{93d18d8b-20da-4e08-bff1-c96950a17dbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\095-博弈类问题上">
+      <UniqueIdentifier>{c4e4886d-1443-4c60-9bda-9b5ce02e05b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\096-博弈类问题下">
+      <UniqueIdentifier>{d896c32e-6228-4eb8-a059-86cb02576f00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\097-质数判断，质因子分解，质数筛">
+      <UniqueIdentifier>{c73bc7a6-4048-455b-9157-3dfd146c8b1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\098-快速幂，矩阵快速幂">
+      <UniqueIdentifier>{ff6303e5-8b6c-4634-8116-0d846d438add}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\099-逆元和除法同余，容斥原理">
+      <UniqueIdentifier>{960faf30-546c-47f8-9df3-e07d2695ae64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\1.4 函数，递归及递推">
+      <UniqueIdentifier>{ea4cafea-e1d1-4dcb-a478-1820d4503c6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\3.1深度优先搜索">
+      <UniqueIdentifier>{8193ef15-2eea-4182-83fe-62621d2ef3b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\041-最大公约数">
+      <UniqueIdentifier>{994c6bb4-a666-4c09-80ef-7c8d08a04e37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\049-滑动窗口">
+      <UniqueIdentifier>{b835d360-5f25-4e30-a151-89072426a0ee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\050-双指针">
+      <UniqueIdentifier>{c1b85370-bc63-4a6c-a0d6-0416d04c615f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\051-二分答案">
+      <UniqueIdentifier>{2de135c5-060b-42e3-ae87-ba48b4f40716}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\052-单调栈">
+      <UniqueIdentifier>{8644a705-7f11-4d21-95cc-c10ed3010b54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\054-单调队列">
+      <UniqueIdentifier>{275e2409-d0e9-4501-b16c-c6552f375c69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\056-并查集">
+      <UniqueIdentifier>{eac56962-4357-41d0-88e4-4b0f8b8d4f11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\058-洪水填充">
+      <UniqueIdentifier>{c17f2b63-fa39-4ca3-890b-460e0c780f1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\000-数据结构">
+      <UniqueIdentifier>{26864fff-a77c-4778-bf3c-ce35c59b96ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\000-数据结构\高频题">
+      <UniqueIdentifier>{1ffbb51a-a2c1-4f3d-943a-1e96ea30c92d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\000-数据结构\二叉树">
+      <UniqueIdentifier>{73924f2e-6de6-487e-bc9b-588b1ffe646e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\030-位运算">
+      <UniqueIdentifier>{d56b928d-14a2-4726-8af0-f82d86f43afd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\030-位运算\异或">
+      <UniqueIdentifier>{6420d819-e634-49cc-a70a-c97a22f100a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\030-位运算\位图">
+      <UniqueIdentifier>{4d9af4de-3e7b-4d88-abaf-915f7fa07c75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\030-位运算\实现加减乘除">
+      <UniqueIdentifier>{7750adfa-8405-4c94-8839-920327ead255}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\030-位运算\洛谷训练">
+      <UniqueIdentifier>{0346ad41-1d43-4b3e-a124-86a426b2e79a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\030-位运算\基本知识">
+      <UniqueIdentifier>{020a4834-8ff0-495f-ad20-ce3a0d8b7fb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\026-Hash">
+      <UniqueIdentifier>{a85ef730-87c8-49ea-ba55-4872ec71807b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\026-Hash\题目">
+      <UniqueIdentifier>{ed156d54-d27c-4a09-a8e0-925249d8f75c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\021-排序">
+      <UniqueIdentifier>{4045cf3c-169c-4ca0-8f75-fbfdea49d33c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\021-排序\快速排序">
+      <UniqueIdentifier>{18038b7d-559e-41b9-98e9-4959203d2b3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\021-排序\快速排序\题目">
+      <UniqueIdentifier>{ee60c598-6b1c-4b19-a235-f6f78a6e6e37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\021-排序\归并排序">
+      <UniqueIdentifier>{6341f0a9-eccd-4583-b1e9-ec9ffbe9062e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\021-排序\归并排序\题目">
+      <UniqueIdentifier>{36076c01-9282-4e11-98ba-d99d49f41e8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\021-排序\堆排序">
+      <UniqueIdentifier>{26b4a391-6aa5-486d-a6ad-2332d5871b0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\021-排序\堆排序\题目">
+      <UniqueIdentifier>{359742e2-a8bc-446c-a627-d6861101c436}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\021-排序\基数排序">
+      <UniqueIdentifier>{983f4f07-737f-4194-aa05-a5df25aa8373}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\042-递归与分治">
+      <UniqueIdentifier>{d46aa9ac-1b8b-4347-9bb9-c290e7be5b74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\042-递归与分治\对数器打表找规律">
+      <UniqueIdentifier>{22fc3add-2651-44df-ad55-cf1689393000}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\042-递归与分治\力扣">
+      <UniqueIdentifier>{cb6bb5e9-85a7-47a3-8550-c763b0d93153}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\042-递归与分治\洛谷">
+      <UniqueIdentifier>{e3fc7902-4914-4497-9819-3f92cc7548b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\042-递归与分治\941">
+      <UniqueIdentifier>{6d7483b1-97ca-40f2-a6d1-bb54ec363f9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\042-递归与分治\常见问题">
+      <UniqueIdentifier>{fefa2f30-b358-4e46-b59e-43715a18d671}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\042-递归与分治\回溯法">
+      <UniqueIdentifier>{25309bb5-085e-4a2a-aa78-c7c9b541ccef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\041-最大公约数\同余原理">
+      <UniqueIdentifier>{17bc7bf7-43d2-4c9c-850a-2e77fbcf1c05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\字符串">
+      <UniqueIdentifier>{603dc625-431b-4e73-95c2-7658eb0dc48c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题">
+      <UniqueIdentifier>{03cdbab0-8d5c-475e-9647-1f6473410034}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\027-堆（优先队列）">
+      <UniqueIdentifier>{b9a9200e-5760-4077-ad03-a3031ffec53a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\线性枚举">
+      <UniqueIdentifier>{0f271ab9-5eed-4e0d-b174-97228a0bc6eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\线性枚举\最值算法">
+      <UniqueIdentifier>{59caea52-62d7-492d-885a-e1a172f02ad0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="洛谷训练\大整数">
+      <UniqueIdentifier>{b86f4a36-ec23-4937-b209-c6b9ca597543}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\061-最小生成树">
+      <UniqueIdentifier>{35be7b38-3302-4723-a8c4-610db1f0435b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\062-bfs">
+      <UniqueIdentifier>{77a6b241-5646-4c57-a085-0aa3e9b203d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\062-bfs\01BFS">
+      <UniqueIdentifier>{e12e6485-83ab-4a36-ad22-cefe343b0a60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\062-bfs\BFS">
+      <UniqueIdentifier>{2a62b744-6463-4b36-873c-dfa2cd9c9430}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\064-Dijkstra  分层图最短路">
+      <UniqueIdentifier>{6f1c5f28-5b35-4e2b-9d0a-69f2afd3407d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\047-一维差分，等差数列差分，前缀和">
+      <UniqueIdentifier>{e61574a3-bd0e-4f54-a9f7-6b624472b1c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\048-二维前缀和，二维差分，离散化技巧">
+      <UniqueIdentifier>{310d300e-798c-4e48-8aac-5293edcf0ca4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\108-树状数组">
+      <UniqueIdentifier>{0a9df951-bc71-49a5-a358-63edafdeaeee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\110-线段树专题1 原理">
+      <UniqueIdentifier>{970295b4-c447-49e0-8c37-ea82f1487f89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\065-A%2a Floyd Bellman-Ford SPFA">
+      <UniqueIdentifier>{d82de3db-f784-4cde-a9b7-4a0ea0529f01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\044-前缀树原理">
+      <UniqueIdentifier>{0e0e9fdb-7501-4b89-976b-ccdbb8b732ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\100-KMP算法">
+      <UniqueIdentifier>{d3ff0303-5f3d-4c68-bf3e-f28eb71c4440}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\103-Manacher算法，扩展KMP">
+      <UniqueIdentifier>{2ce99bb9-1cb0-4250-baad-659ce6c963ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\105-字符串哈希">
+      <UniqueIdentifier>{8dfb9e3a-6f15-417d-b074-808e402baa3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\最小表示法">
+      <UniqueIdentifier>{017808db-8b68-4d0e-ae08-73d2da1c746b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\066-一维动态规划">
+      <UniqueIdentifier>{3089a7bc-5c6b-46ba-9b93-8809ee268c79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\067-二维动态规划">
+      <UniqueIdentifier>{00caf8f4-8650-4a78-b46c-18f5fcb4d838}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\068-基础动态规划">
+      <UniqueIdentifier>{c835ca36-cea4-4858-9bf2-40764a5eab3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\069-三维动态规划">
+      <UniqueIdentifier>{d68cbb94-f24b-4e0d-beb9-4835368bf00e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\070-子数组最大累加和问题">
+      <UniqueIdentifier>{3aa5926b-18a0-4259-93f7-041370c95381}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\072-最长递增子序列">
+      <UniqueIdentifier>{767e18ec-a7be-4eda-b772-c87eb8773658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\073-01背包，有依赖背包">
+      <UniqueIdentifier>{2f843b70-5f38-42b6-8f60-5b9b7dd9ddff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\074-分组背包，完全背包">
+      <UniqueIdentifier>{585e3a2d-244e-4270-9594-8bd11dc7cea2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\075-多重背包，混合背包">
+      <UniqueIdentifier>{c8b2fd97-f215-414d-9b71-30fcf6ca7907}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\076-区间dp">
+      <UniqueIdentifier>{f25e0a3e-73a1-4a58-8342-3f4ae4da3e73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\078-树形dp">
+      <UniqueIdentifier>{27308fc3-4276-4eef-b283-30d41165a485}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\080-状压dp">
+      <UniqueIdentifier>{8b16e3e4-8049-4daf-b7ce-9aa1fe2a3251}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\084-数位dp">
+      <UniqueIdentifier>{6d2f6482-1039-4af3-afd7-d183d40ebcf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\086-求具体方案">
+      <UniqueIdentifier>{f01e86c5-8ecf-436f-8639-6067cc473bb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\087-根据数据量猜解法">
+      <UniqueIdentifier>{55e74764-bf56-4f01-a5f7-3fd7768cc281}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\111-线段树专题2 离散化，二分，特别修改">
+      <UniqueIdentifier>{597ad733-2a94-4620-a8ee-4d63b68519ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\112-线段树专题3 维护更多信息">
+      <UniqueIdentifier>{c3d2f0b7-911b-4488-b62c-31eb7174c243}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\113-线段树专题4 区间合并">
+      <UniqueIdentifier>{ac3430c0-7950-4874-9d2f-6a9eea9fb7a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\114-线段树专题5 开点线段树，区间最值，历史最值">
+      <UniqueIdentifier>{2ae6fdaa-95be-48ed-bdff-85629be36d34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\115-线段树专题6 扫描线">
+      <UniqueIdentifier>{ef303836-2962-45c2-b407-d247b347191e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\116-摩尔投票系列问题">
+      <UniqueIdentifier>{c0e8fd97-a81b-49af-bb1d-a1bc7d01dbaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\117-倍增算法和ST表">
+      <UniqueIdentifier>{b8f523e2-6373-4b28-beb6-44cfb354222e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\118-树上专题1和2 树上倍增和LCA">
+      <UniqueIdentifier>{1d1d5186-b318-4ab2-940a-974b7c4ea113}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\122-树上专题5 树上差分">
+      <UniqueIdentifier>{251e4070-8e6f-4392-82ce-3b1de9c0b088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\102-AC自动机">
+      <UniqueIdentifier>{e5d244e7-898f-4f11-8fcb-095ec666459a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\大整数运算">
+      <UniqueIdentifier>{70eb70c5-eb67-470d-8e2c-a6b2408657da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\121-树上专题4 树的直径">
+      <UniqueIdentifier>{21ba1940-094c-45ca-b26b-845a17d18b03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\120-树上专题3 树的重心">
+      <UniqueIdentifier>{d396acc4-65b5-4909-98b4-6e0671dbc3e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\123-树上专题6 换根dp">
+      <UniqueIdentifier>{553a97c7-f884-4187-8949-ad387b48350b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\125-轮廓线dp">
+      <UniqueIdentifier>{e857ff82-3cae-4379-8b3a-726a599b93c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\126-三进制dp">
+      <UniqueIdentifier>{44269242-1b9d-4ef9-9989-8b3af64320d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\147-卡特兰数题型详解和取模处理">
+      <UniqueIdentifier>{0ab20e6f-ee1d-413d-ae39-818e529e4d97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\133-高斯消元专题1-解决加法方程组">
+      <UniqueIdentifier>{81bfb0fa-677d-4a70-a6a1-4f43c8c42e11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\059-建图和拓扑排序">
+      <UniqueIdentifier>{5dc518a8-23f5-4f2c-8e7f-4ebe7e0ec620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\109-树状数组题目">
+      <UniqueIdentifier>{9fb74967-fe28-4b80-b2db-8f8048695997}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\053-单调栈题目">
+      <UniqueIdentifier>{2a190477-9777-47ba-8b19-1e90c1c4cfa2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\060-拓扑排序扩展技巧">
+      <UniqueIdentifier>{d6d28f75-bd1d-45e9-8d1a-457774f4cc86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\139-裴蜀定理和扩展欧几里得算法">
+      <UniqueIdentifier>{d68b2048-52a3-4db8-a8c9-128b1f49a7c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\045-前缀树题目">
+      <UniqueIdentifier>{46d46bce-1ef1-421d-901a-08d6a1892fc8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\046-构建前缀信息的技巧">
+      <UniqueIdentifier>{4b8c197a-db3d-414b-a8dc-cb0c9aa7ab41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\140-扩展欧几里得和二元一次不定方程">
+      <UniqueIdentifier>{ca66fa59-197c-4f82-bbb6-e7863a5ca073}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\141-中国剩余定理及其扩展">
+      <UniqueIdentifier>{867ce838-768d-453d-9978-03050180ecc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\063-双向BFS">
+      <UniqueIdentifier>{f0c466f0-6e5c-4794-bd53-207387312d94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\170-CDQ分治">
+      <UniqueIdentifier>{058bbfa5-b5bf-4b8c-b162-b8aa83c9c537}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\127-动态规划状态优化设计">
+      <UniqueIdentifier>{e0c6f584-bcad-470d-a13f-58f4d0842639}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="算法全解\188-欧拉路径/欧拉回路">
+      <UniqueIdentifier>{f9bc36f6-ed29-494a-b777-ef609108e6e9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="算法框架.cpp">
+      <Filter>算法全解\042-递归与分治\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="装载问题.cpp">
+      <Filter>算法全解\042-递归与分治\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="批处理作业调度.cpp">
+      <Filter>算法全解\042-递归与分治\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="符号三角形问题.cpp">
+      <Filter>算法全解\042-递归与分治\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="n皇后问题.cpp">
+      <Filter>算法全解\042-递归与分治\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="背包问题2.cpp">
+      <Filter>算法全解\042-递归与分治\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="最大团问题.cpp">
+      <Filter>算法全解\042-递归与分治\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="图的n着色问题.cpp">
+      <Filter>算法全解\042-递归与分治\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="圆排列问题.cpp">
+      <Filter>算法全解\042-递归与分治\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="旅行售货员问题.cpp">
+      <Filter>算法全解\042-递归与分治\回溯法</Filter>
+    </ClCompile>
+    <ClCompile Include="求多次区间最大值.cpp">
+      <Filter>洛谷训练\线性枚举\最值算法</Filter>
+    </ClCompile>
+    <ClCompile Include="1464. 数组中两元素的最大乘积.cpp">
+      <Filter>洛谷训练\线性枚举\最值算法</Filter>
+    </ClCompile>
+    <ClCompile Include="选择排序.cpp">
+      <Filter>算法全解\021-排序</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.cpp">
+      <Filter>算法全解\021-排序</Filter>
+    </ClCompile>
+    <ClCompile Include="插入排序.cpp">
+      <Filter>算法全解\021-排序</Filter>
+    </ClCompile>
+    <ClCompile Include="折半插入排序.cpp">
+      <Filter>算法全解\021-排序</Filter>
+    </ClCompile>
+    <ClCompile Include="希尔排序.cpp">
+      <Filter>算法全解\021-排序</Filter>
+    </ClCompile>
+    <ClCompile Include="欧几里得算法.cpp">
+      <Filter>算法全解\041-最大公约数</Filter>
+    </ClCompile>
+    <ClCompile Include="连续整数检测法.cpp">
+      <Filter>算法全解\041-最大公约数</Filter>
+    </ClCompile>
+    <ClCompile Include="分解因式算法.cpp">
+      <Filter>算法全解\041-最大公约数</Filter>
+    </ClCompile>
+    <ClCompile Include="167. 两数之和 II - 输入有序数组.cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="15. 三数之和.cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="随机数列.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="计数问题.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="约瑟夫环.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="校门外的树.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="比较月亮大小.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="求距离.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="数组下标.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="求逆序数.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="F课程满意度计算.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="二进制？十进制！.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="序列中整数去重.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="有序序列插入一个整数.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="打印质数表.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="素数分布.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="有序序列合并.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="杨辉三角.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵元素定位.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="上三角矩阵判定.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="扫雷.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="单词查找树.cpp">
+      <Filter>算法全解\045-前缀树题目</Filter>
+    </ClCompile>
+    <ClCompile Include="The XOR Largest Pair.cpp">
+      <Filter>算法全解\045-前缀树题目</Filter>
+    </ClCompile>
+    <ClCompile Include="输入输出优化.cpp">
+      <Filter>算法全解</Filter>
+    </ClCompile>
+    <ClCompile Include="归并排序.cpp">
+      <Filter>算法全解\021-排序\归并排序</Filter>
+    </ClCompile>
+    <ClCompile Include="小和问题.cpp">
+      <Filter>算法全解\021-排序\归并排序\题目</Filter>
+    </ClCompile>
+    <ClCompile Include="493翻转对.cpp">
+      <Filter>算法全解\021-排序\归并排序\题目</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序.cpp">
+      <Filter>算法全解\021-排序\快速排序</Filter>
+    </ClCompile>
+    <ClCompile Include="无序数组中的第k大数.cpp">
+      <Filter>算法全解\021-排序\快速排序\题目</Filter>
+    </ClCompile>
+    <ClCompile Include="堆排序.cpp">
+      <Filter>算法全解\021-排序\堆排序</Filter>
+    </ClCompile>
+    <ClCompile Include="堆结构.cpp">
+      <Filter>算法全解\021-排序\堆排序</Filter>
+    </ClCompile>
+    <ClCompile Include="合并k个有序链表.cpp">
+      <Filter>算法全解\021-排序\堆排序\题目</Filter>
+    </ClCompile>
+    <ClCompile Include="线段最多重合问题.cpp">
+      <Filter>算法全解\021-排序\堆排序\题目</Filter>
+    </ClCompile>
+    <ClCompile Include="累加和减半的最小操作次数.cpp">
+      <Filter>算法全解\021-排序\堆排序\题目</Filter>
+    </ClCompile>
+    <ClCompile Include="基数排序.cpp">
+      <Filter>算法全解\021-排序\基数排序</Filter>
+    </ClCompile>
+    <ClCompile Include="水题.cpp">
+      <Filter>算法全解\021-排序\归并排序\题目</Filter>
+    </ClCompile>
+    <ClCompile Include="Contest.cpp">
+      <Filter>算法全解\021-排序\归并排序\题目</Filter>
+    </ClCompile>
+    <ClCompile Include="假的字符串.cpp">
+      <Filter>算法全解\045-前缀树题目</Filter>
+    </ClCompile>
+    <ClCompile Include="878.第N个神奇的数字.cpp">
+      <Filter>算法全解\041-最大公约数</Filter>
+    </ClCompile>
+    <ClCompile Include="加减乘除.cpp">
+      <Filter>算法全解\041-最大公约数\同余原理</Filter>
+    </ClCompile>
+    <ClCompile Include="0-链式前向星建图.cpp">
+      <Filter>算法全解\059-建图和拓扑排序</Filter>
+    </ClCompile>
+    <ClCompile Include="字典序最小的拓扑排序.cpp">
+      <Filter>算法全解\060-拓扑排序扩展技巧</Filter>
+    </ClCompile>
+    <ClCompile Include="最大食物链计数.cpp">
+      <Filter>算法全解\060-拓扑排序扩展技巧</Filter>
+    </ClCompile>
+    <ClCompile Include="851.喧闹与富有.cpp">
+      <Filter>算法全解\060-拓扑排序扩展技巧</Filter>
+    </ClCompile>
+    <ClCompile Include="2050.并行课程III.cpp">
+      <Filter>算法全解\060-拓扑排序扩展技巧</Filter>
+    </ClCompile>
+    <ClCompile Include="2127.参加会议的最大员工数.cpp">
+      <Filter>算法全解\060-拓扑排序扩展技巧</Filter>
+    </ClCompile>
+    <ClCompile Include="有序键值对容器.cpp">
+      <Filter>算法全解\026-Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="有序集合.cpp">
+      <Filter>算法全解\026-Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希集合.cpp">
+      <Filter>算法全解\026-Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希映射.cpp">
+      <Filter>算法全解\026-Hash</Filter>
+    </ClCompile>
+    <ClCompile Include="小M和天平cpp.cpp">
+      <Filter>算法全解\045-前缀树题目</Filter>
+    </ClCompile>
+    <ClCompile Include="小H和遗迹.cpp">
+      <Filter>算法全解\045-前缀树题目</Filter>
+    </ClCompile>
+    <ClCompile Include="基本运用.cpp">
+      <Filter>算法全解\030-位运算\异或</Filter>
+    </ClCompile>
+    <ClCompile Include="牛客-获取最大值.cpp">
+      <Filter>算法全解\030-位运算\异或</Filter>
+    </ClCompile>
+    <ClCompile Include="136.只出现一次的数字.cpp">
+      <Filter>算法全解\030-位运算\异或</Filter>
+    </ClCompile>
+    <ClCompile Include="286.丢失的数字.cpp">
+      <Filter>算法全解\030-位运算\异或</Filter>
+    </ClCompile>
+    <ClCompile Include="260.只出现一次的数字III.cpp">
+      <Filter>算法全解\030-位运算\异或</Filter>
+    </ClCompile>
+    <ClCompile Include="137.只出现一次的数字II.cpp">
+      <Filter>算法全解\030-位运算\异或</Filter>
+    </ClCompile>
+    <ClCompile Include="231.2的幂.cpp">
+      <Filter>算法全解\030-位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="326.3的幂.cpp">
+      <Filter>算法全解\030-位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="求大于等于n的最小2的几次方.cpp">
+      <Filter>算法全解\030-位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="201,数字范围内按位与.cpp">
+      <Filter>算法全解\030-位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="190.颠倒二进制位.cpp">
+      <Filter>算法全解\030-位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="461.汉明距离.cpp">
+      <Filter>算法全解\030-位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="位图的基本操作.cpp">
+      <Filter>算法全解\030-位运算\位图</Filter>
+    </ClCompile>
+    <ClCompile Include="2166.设计位集.cpp">
+      <Filter>算法全解\030-位运算\位图</Filter>
+    </ClCompile>
+    <ClCompile Include="位运算实现加减乘除.cpp">
+      <Filter>算法全解\030-位运算\实现加减乘除</Filter>
+    </ClCompile>
+    <ClCompile Include="29.两数相除.cpp">
+      <Filter>算法全解\030-位运算\实现加减乘除</Filter>
+    </ClCompile>
+    <ClCompile Include="B3908 [语言月赛 202312] 异或构造题？.cpp">
+      <Filter>算法全解\030-位运算\洛谷训练</Filter>
+    </ClCompile>
+    <ClCompile Include="P9496 「RiOI-2」hacker.cpp">
+      <Filter>算法全解\030-位运算\洛谷训练</Filter>
+    </ClCompile>
+    <ClCompile Include="B4261 [GESP202503 三级] 2025.cpp">
+      <Filter>算法全解\030-位运算\洛谷训练</Filter>
+    </ClCompile>
+    <ClCompile Include="位运算的性质.cpp">
+      <Filter>算法全解\030-位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="P1348 Couple number.cpp">
+      <Filter>算法全解\030-位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="160.相交链表.cpp">
+      <Filter>算法全解\009-链表</Filter>
+    </ClCompile>
+    <ClCompile Include="138.随机链表的复制.cpp">
+      <Filter>算法全解\009-链表</Filter>
+    </ClCompile>
+    <ClCompile Include="142.环形链表II.cpp">
+      <Filter>算法全解\009-链表</Filter>
+    </ClCompile>
+    <ClCompile Include="148.排序链表.cpp">
+      <Filter>算法全解\009-链表</Filter>
+    </ClCompile>
+    <ClCompile Include="B3631 单向链表.cpp">
+      <Filter>算法全解\009-链表</Filter>
+    </ClCompile>
+    <ClCompile Include="C小苯的麦克斯.cpp">
+      <Filter>比赛\牛客周赛 Round 110</Filter>
+    </ClCompile>
+    <ClCompile Include="D小苯的平衡序列.cpp">
+      <Filter>比赛\牛客周赛 Round 110</Filter>
+    </ClCompile>
+    <ClCompile Include="E小苯的数字变换.cpp">
+      <Filter>比赛\牛客周赛 Round 110</Filter>
+    </ClCompile>
+    <ClCompile Include="A小苯的数字染色.cpp">
+      <Filter>比赛\牛客周赛 Round 110</Filter>
+    </ClCompile>
+    <ClCompile Include="B小苯的数字重排.cpp">
+      <Filter>比赛\牛客周赛 Round 110</Filter>
+    </ClCompile>
+    <ClCompile Include="设计有setAll功能的哈希表.cpp">
+      <Filter>算法全解\000-数据结构\高频题</Filter>
+    </ClCompile>
+    <ClCompile Include="146.LRU缓存.cpp">
+      <Filter>算法全解\000-数据结构\高频题</Filter>
+    </ClCompile>
+    <ClCompile Include="381. O(1) 时间插入、删除和获取随机元素 - 允许重复.cpp">
+      <Filter>算法全解\000-数据结构\高频题</Filter>
+    </ClCompile>
+    <ClCompile Include="380. O(1) 时间插入、删除和获取随机元素.cpp">
+      <Filter>算法全解\000-数据结构\高频题</Filter>
+    </ClCompile>
+    <ClCompile Include="才艺比拼.cpp">
+      <Filter>比赛\新生赛验题</Filter>
+    </ClCompile>
+    <ClCompile Include="丰川祥子和她的小姨.cpp">
+      <Filter>比赛\新生赛验题</Filter>
+    </ClCompile>
+    <ClCompile Include="糕手逆序对.cpp">
+      <Filter>比赛\新生赛验题</Filter>
+    </ClCompile>
+    <ClCompile Include="295.数据流的中位数.cpp">
+      <Filter>算法全解\000-数据结构\高频题</Filter>
+    </ClCompile>
+    <ClCompile Include="895.最大频率栈.cpp">
+      <Filter>算法全解\000-数据结构\高频题</Filter>
+    </ClCompile>
+    <ClCompile Include="103.二叉树的锯齿形层序遍历.cpp">
+      <Filter>算法全解\000-数据结构\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="297.二叉树的序列化与反序列化.cpp">
+      <Filter>算法全解\000-数据结构\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="958.二叉树的完全性检验.cpp">
+      <Filter>算法全解\000-数据结构\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="222.完全二叉树的节点个数.cpp">
+      <Filter>算法全解\000-数据结构\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="236.二叉树的最近公共祖先.cpp">
+      <Filter>算法全解\000-数据结构\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="235.二叉搜索树的最近公共祖先.cpp">
+      <Filter>算法全解\000-数据结构\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="113.路径总和II.cpp">
+      <Filter>算法全解\000-数据结构\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="110.平衡二叉树.cpp">
+      <Filter>算法全解\000-数据结构\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="98.验证二叉搜索树.cpp">
+      <Filter>算法全解\000-数据结构\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="669.修剪二叉搜索树.cpp">
+      <Filter>算法全解\000-数据结构\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="337.打家劫舍III.cpp">
+      <Filter>算法全解\000-数据结构\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="A-小红取模.cpp">
+      <Filter>比赛</Filter>
+    </ClCompile>
+    <ClCompile Include="B-小红的复数.cpp">
+      <Filter>比赛</Filter>
+    </ClCompile>
+    <ClCompile Include="C-小红的k次方.cpp">
+      <Filter>比赛</Filter>
+    </ClCompile>
+    <ClCompile Include="用袋子买苹果问题.cpp">
+      <Filter>算法全解\042-递归与分治\对数器打表找规律</Filter>
+    </ClCompile>
+    <ClCompile Include="AB吃草问题.cpp">
+      <Filter>算法全解\042-递归与分治\对数器打表找规律</Filter>
+    </ClCompile>
+    <ClCompile Include="46.全排列.cpp">
+      <Filter>算法全解\042-递归与分治\力扣</Filter>
+    </ClCompile>
+    <ClCompile Include="47.全排列II.cpp">
+      <Filter>算法全解\042-递归与分治\力扣</Filter>
+    </ClCompile>
+    <ClCompile Include="52.N皇后II.cpp">
+      <Filter>算法全解\042-递归与分治\力扣</Filter>
+    </ClCompile>
+    <ClCompile Include="90.子集II.cpp">
+      <Filter>算法全解\042-递归与分治\力扣</Filter>
+    </ClCompile>
+    <ClCompile Include="51.N皇后.cpp">
+      <Filter>算法全解\042-递归与分治\力扣</Filter>
+    </ClCompile>
+    <ClCompile Include="Strassen矩阵乘法.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="二分搜索技术.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="汉诺塔问题.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="循环赛日程表.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="排列.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="快速幂.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="排序栈.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="棋盘覆盖问题-队列.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="棋盘覆盖问题-递归.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="求n的全排列.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="棋盘覆盖问题-栈.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="逆序栈.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="线性时间选择.cpp">
+      <Filter>算法全解\042-递归与分治\常见问题</Filter>
+    </ClCompile>
+    <ClCompile Include="P1002 [NOIP 2002 普及组] 过河卒.cpp">
+      <Filter>算法全解\042-递归与分治\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="P1044 [NOIP 2003 普及组] 栈.cpp">
+      <Filter>算法全解\042-递归与分治\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="P1028 [NOIP 2001 普及组] 数的计算.cpp">
+      <Filter>算法全解\042-递归与分治\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="P1464 Function.cpp">
+      <Filter>算法全解\042-递归与分治\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="P2437 蜜蜂路线.cpp">
+      <Filter>算法全解\042-递归与分治\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="P1928 外星密码.cpp">
+      <Filter>算法全解\042-递归与分治\洛谷</Filter>
+    </ClCompile>
+    <ClCompile Include="放苹果.cpp">
+      <Filter>算法全解\042-递归与分治\941</Filter>
+    </ClCompile>
+    <ClCompile Include="自然数的拆分.cpp">
+      <Filter>算法全解\042-递归与分治\941</Filter>
+    </ClCompile>
+    <ClCompile Include="304. 二维区域和检索 - 矩阵不可变.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="1139.最大的以1为边界的正方形.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="2132.用邮票贴满网格图.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="LCR 74.最强祝福力场.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="3.无重复字符的最长子串.cpp">
+      <Filter>算法全解\049-滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="76.最小覆盖子串.cpp">
+      <Filter>算法全解\049-滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="134.加油站问题.cpp">
+      <Filter>算法全解\049-滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="1234.替换子串得到平衡字符串.cpp">
+      <Filter>算法全解\049-滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="992.k个不同整数的好子数组.cpp">
+      <Filter>算法全解\049-滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="395.至少有K个重复字符的最长子串.cpp">
+      <Filter>算法全解\049-滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="922.按奇偶排序数组II.cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="287.寻找重复数.cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="42.接雨水.cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="881.救生艇.cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="11.盛最多水的容器.cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="475.供暖器.cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="41.缺失的第一个正数.cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="875.爱吃香蕉的kke.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="410.分割数组的最大值.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="719.找出第k小的数对距离.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="2141.同时运行N台电脑的最长时间.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="2-739.每日温度.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="3-907.子数组的最小值之和.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="4-84.柱状图中最大的矩形.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="5-85.最大矩形.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="3217.从链表中移除在数组中存在的节点.cpp">
+      <Filter>每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="1-239.滑动窗口最大值.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="2257.统计网格图中没有被保卫的格子数.cpp">
+      <Filter>每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="1438.绝对差不超过限制的最长连续子数组.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="P2698 [USACO12MAR] Flowerpot S.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="1499.满足不等式的最大值.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="2071.你可以安排的最多任务数目.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="862.和至少为k的最短子数组.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="1578.使绳子变成彩色的最短时间.cpp">
+      <Filter>每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="并查集的实现.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="P3367 【模板】并查集.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="765.情侣牵手.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="839.相似字符串组.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="2092.找出知晓秘密的所有专家.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="947.移除最多的同行或同列石头.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="3318.计算子数组的x-sum I.cpp">
+      <Filter>每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="2421.好路径的数目.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="928.尽量减少恶意软件的传播II.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="200.岛屿数量.cpp">
+      <Filter>算法全解\058-洪水填充</Filter>
+    </ClCompile>
+    <ClCompile Include="827.最大人工岛.cpp">
+      <Filter>算法全解\058-洪水填充</Filter>
+    </ClCompile>
+    <ClCompile Include="803.打砖块.cpp">
+      <Filter>算法全解\058-洪水填充</Filter>
+    </ClCompile>
+    <ClCompile Include="3321.计算子数组的x-sum II.cpp">
+      <Filter>每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P3366 【模板】最小生成树.cpp">
+      <Filter>算法全解\061-最小生成树</Filter>
+    </ClCompile>
+    <ClCompile Include="00-Kruskal算法.cpp">
+      <Filter>算法全解\061-最小生成树</Filter>
+    </ClCompile>
+    <ClCompile Include="00-Prim算法.cpp">
+      <Filter>算法全解\061-最小生成树</Filter>
+    </ClCompile>
+    <ClCompile Include="Prim算法优化版.cpp">
+      <Filter>算法全解\061-最小生成树</Filter>
+    </ClCompile>
+    <ClCompile Include="1697.检查边长度限制的路径是否存在.cpp">
+      <Filter>算法全解\061-最小生成树</Filter>
+    </ClCompile>
+    <ClCompile Include="P2330 [SCOI2005] 繁忙的都市.cpp">
+      <Filter>算法全解\061-最小生成树</Filter>
+    </ClCompile>
+    <ClCompile Include="506.相对名次.cpp">
+      <Filter>算法全解\027-堆（优先队列）</Filter>
+    </ClCompile>
+    <ClCompile Include="215.数组中的第k个最大元素.cpp">
+      <Filter>算法全解\027-堆（优先队列）</Filter>
+    </ClCompile>
+    <ClCompile Include="218.天际线问题.cpp">
+      <Filter>算法全解\027-堆（优先队列）</Filter>
+    </ClCompile>
+    <ClCompile Include="1162.地图分析.cpp">
+      <Filter>算法全解\062-bfs\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="691.贴图拼词.cpp">
+      <Filter>算法全解\062-bfs\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2290.到达角落需要移除障碍物的最小数目.cpp">
+      <Filter>算法全解\062-bfs\01BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1368.使网格图至少有一条有效路径的最小代价.cpp">
+      <Filter>算法全解\062-bfs\01BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="407.接雨水II.cpp">
+      <Filter>算法全解\062-bfs\01BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="126.单词接龙II.cpp">
+      <Filter>算法全解\062-bfs\01BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="13.罗马数字转整数.cpp">
+      <Filter>算法全解\026-Hash\题目</Filter>
+    </ClCompile>
+    <ClCompile Include="12.整数转罗马数字.cpp">
+      <Filter>算法全解\026-Hash\题目</Filter>
+    </ClCompile>
+    <ClCompile Include="37.解数独.cpp">
+      <Filter>算法全解\026-Hash\题目</Filter>
+    </ClCompile>
+    <ClCompile Include="303.区域和检索-数组不可变.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="238.除自身以为数组的乘积.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="306.矩形区域不超过K的最大数值和.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="A小红的图.cpp">
+      <Filter>比赛\牛客周赛 Round 117</Filter>
+    </ClCompile>
+    <ClCompile Include="B小红的菊花.cpp">
+      <Filter>比赛\牛客周赛 Round 117</Filter>
+    </ClCompile>
+    <ClCompile Include="C小红的好矩形.cpp">
+      <Filter>比赛\牛客周赛 Round 117</Filter>
+    </ClCompile>
+    <ClCompile Include="D小红嫁接.cpp">
+      <Filter>比赛\牛客周赛 Round 117</Filter>
+    </ClCompile>
+    <ClCompile Include="E小红玩马.cpp">
+      <Filter>比赛\牛客周赛 Round 117</Filter>
+    </ClCompile>
+    <ClCompile Include="F小红的9.cpp">
+      <Filter>比赛\牛客周赛 Round 117</Filter>
+    </ClCompile>
+    <ClCompile Include="1-127.单词接龙.cpp">
+      <Filter>算法全解\063-双向BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="2-P4799 [CEOI 2015] 世界冰球锦标赛 %28Day2%29.cpp">
+      <Filter>算法全解\063-双向BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1755.最接近目标值的子序列和.cpp">
+      <Filter>算法全解\063-双向BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="1-743.网络延迟时间.cpp">
+      <Filter>算法全解\064-Dijkstra  分层图最短路</Filter>
+    </ClCompile>
+    <ClCompile Include="2-P4779 【模板】单源最短路径（标准版）.cpp">
+      <Filter>算法全解\064-Dijkstra  分层图最短路</Filter>
+    </ClCompile>
+    <ClCompile Include="1631.最小体力消耗路径.cpp">
+      <Filter>算法全解\064-Dijkstra  分层图最短路</Filter>
+    </ClCompile>
+    <ClCompile Include="3-778.水位上升的泳池中游泳.cpp">
+      <Filter>算法全解\064-Dijkstra  分层图最短路</Filter>
+    </ClCompile>
+    <ClCompile Include="4-864.获取所有钥匙的最短路径.cpp">
+      <Filter>算法全解\064-Dijkstra  分层图最短路</Filter>
+    </ClCompile>
+    <ClCompile Include="5-LCP 35.电动车游城市.cpp">
+      <Filter>算法全解\064-Dijkstra  分层图最短路</Filter>
+    </ClCompile>
+    <ClCompile Include="6-P4568 [JLOI2011] 飞行路线.cpp">
+      <Filter>算法全解\064-Dijkstra  分层图最短路</Filter>
+    </ClCompile>
+    <ClCompile Include="1-A星算法.cpp">
+      <Filter>算法全解\065-A%2a Floyd Bellman-Ford SPFA</Filter>
+    </ClCompile>
+    <ClCompile Include="2-Floyd算法.cpp">
+      <Filter>算法全解\065-A%2a Floyd Bellman-Ford SPFA</Filter>
+    </ClCompile>
+    <ClCompile Include="3-Bellman-Ford算法.cpp">
+      <Filter>算法全解\065-A%2a Floyd Bellman-Ford SPFA</Filter>
+    </ClCompile>
+    <ClCompile Include="4-SPFA优化.cpp">
+      <Filter>算法全解\065-A%2a Floyd Bellman-Ford SPFA</Filter>
+    </ClCompile>
+    <ClCompile Include="2654.使数组所有元素变成1的最少操作次数.cpp">
+      <Filter>每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="2-983.最低票价.cpp">
+      <Filter>算法全解\066-一维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="91.解码方法.cpp">
+      <Filter>算法全解\066-一维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="639.解码问题II.cpp">
+      <Filter>算法全解\066-一维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="264.丑数II.cpp">
+      <Filter>算法全解\066-一维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="32.最长有效括号.cpp">
+      <Filter>算法全解\066-一维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="467.环绕字符串中唯一的子字符串.cpp">
+      <Filter>算法全解\066-一维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="940.不同的子序列II.cpp">
+      <Filter>算法全解\066-一维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="64.最小路径和.cpp">
+      <Filter>算法全解\067-二维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="79.单词搜索.cpp">
+      <Filter>算法全解\067-二维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="329.矩阵中的最长递增路径.cpp">
+      <Filter>算法全解\067-二维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="1143.最长公共子序列.cpp">
+      <Filter>算法全解\067-二维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="516.最长回文子序列.cpp">
+      <Filter>算法全解\067-二维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="115.不同的子序列.cpp">
+      <Filter>算法全解\067-二维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="72.编辑距离.cpp">
+      <Filter>算法全解\067-二维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="97.交错字符串.cpp">
+      <Filter>算法全解\067-二维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="涂色问题.cpp">
+      <Filter>算法全解\067-二维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串变换.cpp">
+      <Filter>算法全解\067-二维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="474.一和零.cpp">
+      <Filter>算法全解\069-三维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="A小红的博弈.cpp">
+      <Filter>比赛\牛客周赛 Round 118</Filter>
+    </ClCompile>
+    <ClCompile Include="B小红选点.cpp">
+      <Filter>比赛\牛客周赛 Round 118</Filter>
+    </ClCompile>
+    <ClCompile Include="C小红的矩形.cpp">
+      <Filter>比赛\牛客周赛 Round 118</Filter>
+    </ClCompile>
+    <ClCompile Include="D小红拿石子1.0.cpp">
+      <Filter>比赛\牛客周赛 Round 118</Filter>
+    </ClCompile>
+    <ClCompile Include="E小红玩树.cpp">
+      <Filter>比赛\牛客周赛 Round 118</Filter>
+    </ClCompile>
+    <ClCompile Include="F.小红拿石头II.cpp">
+      <Filter>比赛\牛客周赛 Round 118</Filter>
+    </ClCompile>
+    <ClCompile Include="879.盈利计划.cpp">
+      <Filter>算法全解\069-三维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="688.骑士在棋盘上的概率.cpp">
+      <Filter>算法全解\069-三维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="2435.矩阵中能被K整除的路径.cpp">
+      <Filter>算法全解\069-三维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="87.扰乱字符串.cpp">
+      <Filter>算法全解\069-三维动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="53.最大子数组和.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="198.打家劫舍.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="918.环形子数组的最大和.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="213.打家劫舍II.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="2560.打家劫舍IV.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="面试题 17.24.最大子矩阵.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="必须被7整除的最大累加和.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="689.三个无重叠子数组的最大和.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="基础.cpp">
+      <Filter>算法全解\030-位运算\基本知识</Filter>
+    </ClCompile>
+    <ClCompile Include="反转一次子数组最大累加和.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="删除一个数求最大累加和.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="300.最长递增子序列.cpp">
+      <Filter>算法全解\072-最长递增子序列</Filter>
+    </ClCompile>
+    <ClCompile Include="354.俄罗斯套娃信封问题.cpp">
+      <Filter>算法全解\072-最长递增子序列</Filter>
+    </ClCompile>
+    <ClCompile Include="2111.使数组k递增的最少操作次数.cpp">
+      <Filter>算法全解\072-最长递增子序列</Filter>
+    </ClCompile>
+    <ClCompile Include="646.最长数对链.cpp">
+      <Filter>算法全解\072-最长递增子序列</Filter>
+    </ClCompile>
+    <ClCompile Include="P8776 [蓝桥杯 2022 省 A] 最长不下降子序列.cpp">
+      <Filter>算法全解\072-最长递增子序列</Filter>
+    </ClCompile>
+    <ClCompile Include="01-P1048 [NOIP 2005 普及组] 采药.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="494.目标和.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="1049.最后一块石头得重量II.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P1064 [NOIP 2006 提高组] 金明的预算方案.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="非负数组前k个最小的子序列累加和.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P1757 通天之分组背包.cpp">
+      <Filter>算法全解\074-分组背包，完全背包</Filter>
+    </ClCompile>
+    <ClCompile Include="2218.从栈中取出K个硬币的最大面值和.cpp">
+      <Filter>算法全解\074-分组背包，完全背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P1616 疯狂的采药.cpp">
+      <Filter>算法全解\074-分组背包，完全背包</Filter>
+    </ClCompile>
+    <ClCompile Include="10.正则表达式.cpp">
+      <Filter>算法全解\074-分组背包，完全背包</Filter>
+    </ClCompile>
+    <ClCompile Include="44.通配符问题.cpp">
+      <Filter>算法全解\074-分组背包，完全背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P2918 [USACO08NOV] Buying Hay S.cpp">
+      <Filter>算法全解\074-分组背包，完全背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P1776 宝物筛选.cpp">
+      <Filter>算法全解\075-多重背包，混合背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P1833 樱花.cpp">
+      <Filter>算法全解\075-多重背包，混合背包</Filter>
+    </ClCompile>
+    <ClCompile Include="能成功找零的钱数种类.cpp">
+      <Filter>算法全解\075-多重背包，混合背包</Filter>
+    </ClCompile>
+    <ClCompile Include="1312.让字符串成为回文串的最少插入次数.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="486.预测赢家.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="1039.多边形三角剖分的最低得分.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="1547.切棍子的最小成本.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="19.删除链表的倒数第N个节点.cpp">
+      <Filter>每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="22.括号生成.cpp">
+      <Filter>每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="1696.跳跃游戏IV.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="2762.不间断子数组.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="2944.购买水果需要的最少金币数.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="2444.统计定界子数组的数目.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="括号区间匹配问题.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="664.奇怪的打印机.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="312.戳气球.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="面试题08.14.布尔运算.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="P3205 [HNOI2010] 合唱队.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="546.移除盒子.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="1000.合并石头的最低成本.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="730.统计不同回文子序列.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="333.最大BST子树.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="1373.二叉搜索子树的最大键值和.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="543.二叉树的直径.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="979.在二叉树中分配硬币.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="P1352 没有上司的舞会.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="968.监控二叉树.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="437.路径总和III.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="2.1-2477.到达首都的最少油耗.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="2246.相邻字符不同的最长路径.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="2458.移除子树后的二叉树高度.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="2322.从树中删除边的最小分数.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="P2014 [CTSC1997] 选课.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="464.我能赢吗.cpp">
+      <Filter>算法全解\080-状压dp</Filter>
+    </ClCompile>
+    <ClCompile Include="473.火柴拼正方形.cpp">
+      <Filter>算法全解\080-状压dp</Filter>
+    </ClCompile>
+    <ClCompile Include="698.划分为k个相等的子集.cpp">
+      <Filter>算法全解\080-状压dp</Filter>
+    </ClCompile>
+    <ClCompile Include="3573.买卖股票的最佳时机V.cpp">
+      <Filter>每日一题</Filter>
+    </ClCompile>
+    <ClCompile Include="34. 在排序数组中查找元素的第一个和最后一个位置.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="35. 搜索插入位置.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="153. 寻找旋转排序数组中的最小值.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="154. 寻找旋转排序数组中的最小值 II.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="1655. 分配重复整数.cpp">
+      <Filter>算法全解\080-状压dp</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 最长回文子串.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="45. 跳跃游戏 II.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="动态规划算法原理.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="55. 跳跃游戏.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="最优二叉搜索树.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵连乘问题.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="数字塔.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="多边形游戏.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="凸多边形最优三角剖分.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="游艇租用问题.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="四柱汉诺塔问题.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="最大子段和.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="最大子矩阵和.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="最大m子段和问题.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="121. 买卖股票的最佳时机.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="122. 买卖股票的最佳时机 II.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="123. 买卖股票的最佳时机 III.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="188. 买卖股票的最佳时机 IV.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="714. 买卖股票的最佳时机含手续费.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="P2704 [NOI2001] 炮兵阵地.cpp">
+      <Filter>洛谷训练\4.5状态压缩动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="P1879 [USACO06NOV] Corn Fields G.cpp">
+      <Filter>洛谷训练\4.5状态压缩动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="309. 买卖股票的最佳时机含冷冻期.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="903. DI 序列的有效排列.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="P1896 [SCOI2005] 互不侵犯.cpp">
+      <Filter>洛谷训练\4.5状态压缩动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="P3092 [USACO13NOV] No Change G.cpp">
+      <Filter>洛谷训练\4.5状态压缩动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="465.最优账单平衡.cpp">
+      <Filter>算法全解\080-状压dp</Filter>
+    </ClCompile>
+    <ClCompile Include="1434. 每个人戴不同帽子的方案数.cpp">
+      <Filter>算法全解\080-状压dp</Filter>
+    </ClCompile>
+    <ClCompile Include="1994. 好子集的数目.cpp">
+      <Filter>算法全解\080-状压dp</Filter>
+    </ClCompile>
+    <ClCompile Include="P3879 [TJOI2010] 阅读理解.cpp">
+      <Filter>洛谷训练\5.4Trie树</Filter>
+    </ClCompile>
+    <ClCompile Include="P1111 修复公路.cpp">
+      <Filter>洛谷训练\7.4并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="1235. 规划兼职工作.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="629. K 个逆序对数组.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="514. 自由之路.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="未排序数组中累加和小于等于给定值的最长子数组长度.cpp">
+      <Filter>算法全解\068-基础动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="357. 统计各位数字都不同的数字个数.cpp">
+      <Filter>算法全解\084-数位dp</Filter>
+    </ClCompile>
+    <ClCompile Include="902. 最大为 N 的数字组合.cpp">
+      <Filter>算法全解\084-数位dp</Filter>
+    </ClCompile>
+    <ClCompile Include="P3694 邦邦的大合唱站队.cpp">
+      <Filter>洛谷训练\4.5状态压缩动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="P4925 [1007] Scarlet的字符串不可能这么可爱.cpp">
+      <Filter>洛谷训练\4.5状态压缩动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="P1216 [IOI 1994  USACO1.5] 数字三角形 Number Triangles.cpp">
+      <Filter>洛谷训练\4.3线性动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="P1020 [NOIP 1999 提高组] 导弹拦截.cpp">
+      <Filter>洛谷训练\4.3线性动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="01-P1067 [NOIP 2009 普及组] 多项式输出.cpp">
+      <Filter>洛谷训练\2.1模拟</Filter>
+    </ClCompile>
+    <ClCompile Include="P2602 [ZJOI2010] 数字计数.cpp">
+      <Filter>洛谷训练\4.11数位动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="2719. 统计整数数目.cpp">
+      <Filter>算法全解\084-数位dp</Filter>
+    </ClCompile>
+    <ClCompile Include="2376. 统计特殊整数.cpp">
+      <Filter>算法全解\084-数位dp</Filter>
+    </ClCompile>
+    <ClCompile Include="1012. 至少有 1 位重复的数字.cpp">
+      <Filter>算法全解\084-数位dp</Filter>
+    </ClCompile>
+    <ClCompile Include="P2657 [SCOI2009] windy 数.cpp">
+      <Filter>算法全解\084-数位dp</Filter>
+    </ClCompile>
+    <ClCompile Include="P3413 SAC#1 - 萌数.cpp">
+      <Filter>算法全解\084-数位dp</Filter>
+    </ClCompile>
+    <ClCompile Include="600. 不含连续1的非负整数.cpp">
+      <Filter>算法全解\084-数位dp</Filter>
+    </ClCompile>
+    <ClCompile Include="233. 数字 1 的个数.cpp">
+      <Filter>算法全解\084-数位dp</Filter>
+    </ClCompile>
+    <ClCompile Include="最长公共子序列.cpp">
+      <Filter>算法全解\086-求具体方案</Filter>
+    </ClCompile>
+    <ClCompile Include="1125. 最小的必要团队.cpp">
+      <Filter>算法全解\086-求具体方案</Filter>
+    </ClCompile>
+    <ClCompile Include="P2518 [HAOI2010] 计数.cpp">
+      <Filter>洛谷训练\4.11数位动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="T386911 最长上升子序列输出解.cpp">
+      <Filter>算法全解\086-求具体方案</Filter>
+    </ClCompile>
+    <ClCompile Include="P1461 [USACO2.1] 海明码 Hamming Codes.cpp">
+      <Filter>算法全解\003-二进制与位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="P1468 IOI 1998 USACO2.2派对灯 Party Lamps.cpp">
+      <Filter>算法全解\003-二进制与位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="P1074 [NOIP 2009 提高组] 靶形数独.cpp">
+      <Filter>算法全解\003-二进制与位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="P1759 通天之潜水.cpp">
+      <Filter>算法全解\086-求具体方案</Filter>
+    </ClCompile>
+    <ClCompile Include="01-打怪兽.cpp">
+      <Filter>算法全解\087-根据数据量猜解法</Filter>
+    </ClCompile>
+    <ClCompile Include="02-笔试题.cpp">
+      <Filter>算法全解\087-根据数据量猜解法</Filter>
+    </ClCompile>
+    <ClCompile Include="03-P1439 两个排列的最长公共子序列.cpp">
+      <Filter>算法全解\087-根据数据量猜解法</Filter>
+    </ClCompile>
+    <ClCompile Include="04-1187. 使数组严格递增.cpp">
+      <Filter>算法全解\087-根据数据量猜解法</Filter>
+    </ClCompile>
+    <ClCompile Include="P1024 [NOIP 2001 提高组] 一元三次方程求解.cpp">
+      <Filter>算法全解\006-二分搜索</Filter>
+    </ClCompile>
+    <ClCompile Include="01-179. 最大数.cpp">
+      <Filter>算法全解\089-贪心算法专题1</Filter>
+    </ClCompile>
+    <ClCompile Include="02-1029. 两地调度.cpp">
+      <Filter>算法全解\089-贪心算法专题1</Filter>
+    </ClCompile>
+    <ClCompile Include="03-1553. 吃掉 N 个橘子的最少天数.cpp">
+      <Filter>算法全解\089-贪心算法专题1</Filter>
+    </ClCompile>
+    <ClCompile Include="04-线段重合.cpp">
+      <Filter>算法全解\089-贪心算法专题1</Filter>
+    </ClCompile>
+    <ClCompile Include="05-630. 课程表 III.cpp">
+      <Filter>算法全解\089-贪心算法专题1</Filter>
+    </ClCompile>
+    <ClCompile Include="06-P1090 [NOIP 2004 提高组] 合并果子.cpp">
+      <Filter>算法全解\089-贪心算法专题1</Filter>
+    </ClCompile>
+    <ClCompile Include="B4324 【模板】双向链表.cpp">
+      <Filter>算法全解\009-链表</Filter>
+    </ClCompile>
+    <ClCompile Include="P1095 [NOIP 2007 普及组] 守望者的逃离.cpp">
+      <Filter>洛谷训练\4.3线性动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="P1091 [NOIP 2004 提高组] 合唱队形.cpp">
+      <Filter>洛谷训练\4.3线性动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="01-LCR 132. 砍竹子 II.cpp">
+      <Filter>算法全解\090-贪心算法专题2</Filter>
+    </ClCompile>
+    <ClCompile Include="02-分成 k 份的最大乘积.cpp">
+      <Filter>算法全解\090-贪心算法专题2</Filter>
+    </ClCompile>
+    <ClCompile Include="03-会议必须独占时间段的最大会议数量.cpp">
+      <Filter>算法全解\090-贪心算法专题2</Filter>
+    </ClCompile>
+    <ClCompile Include="04-1353. 最多可以参加的会议数目.cpp">
+      <Filter>算法全解\090-贪心算法专题2</Filter>
+    </ClCompile>
+    <ClCompile Include="05-502. IPO.cpp">
+      <Filter>算法全解\090-贪心算法专题2</Filter>
+    </ClCompile>
+    <ClCompile Include="06-加入差值绝对值直到长度固定.cpp">
+      <Filter>算法全解\090-贪心算法专题2</Filter>
+    </ClCompile>
+    <ClCompile Include="01-581. 最短无序连续子数组.cpp">
+      <Filter>算法全解\091-贪心算法专题3</Filter>
+    </ClCompile>
+    <ClCompile Include="02-632. 最小区间.cpp">
+      <Filter>算法全解\091-贪心算法专题3</Filter>
+    </ClCompile>
+    <ClCompile Include="03-组团买票问题.cpp">
+      <Filter>算法全解\091-贪心算法专题3</Filter>
+    </ClCompile>
+    <ClCompile Include="04-平均值最小累加和问题.cpp">
+      <Filter>算法全解\091-贪心算法专题3</Filter>
+    </ClCompile>
+    <ClCompile Include="05-执行所有任务的最少初始电量.cpp">
+      <Filter>算法全解\091-贪心算法专题3</Filter>
+    </ClCompile>
+    <ClCompile Include="06-两个 0 和 1 数量相等区间的最大长度.cpp">
+      <Filter>算法全解\091-贪心算法专题3</Filter>
+    </ClCompile>
+    <ClCompile Include="AT_abc344_e [ABC344E] Insert or Erase.cpp">
+      <Filter>算法全解\009-链表</Filter>
+    </ClCompile>
+    <ClCompile Include="01-1675. 数组的最小偏移量.cpp">
+      <Filter>算法全解\092-贪心算法专题4</Filter>
+    </ClCompile>
+    <ClCompile Include="02-781. 森林中的兔子.cpp">
+      <Filter>算法全解\092-贪心算法专题4</Filter>
+    </ClCompile>
+    <ClCompile Include="03-2449. 使数组相似的最少操作次数.cpp">
+      <Filter>算法全解\092-贪心算法专题4</Filter>
+    </ClCompile>
+    <ClCompile Include="04-知识竞赛.cpp">
+      <Filter>算法全解\092-贪心算法专题4</Filter>
+    </ClCompile>
+    <ClCompile Include="06-871. 最低加油次数.cpp">
+      <Filter>算法全解\092-贪心算法专题4</Filter>
+    </ClCompile>
+    <ClCompile Include="01-45. 跳跃游戏 II.cpp">
+      <Filter>算法全解\093-贪心算法专题5</Filter>
+    </ClCompile>
+    <ClCompile Include="02-1326. 灌溉花园的最少水龙头数目.cpp">
+      <Filter>算法全解\093-贪心算法专题5</Filter>
+    </ClCompile>
+    <ClCompile Include="03-1153.字符串转化.cpp">
+      <Filter>算法全解\093-贪心算法专题5</Filter>
+    </ClCompile>
+    <ClCompile Include="04-P1809 过河问题.cpp">
+      <Filter>算法全解\093-贪心算法专题5</Filter>
+    </ClCompile>
+    <ClCompile Include="05-517. 超级洗衣机.cpp">
+      <Filter>算法全解\093-贪心算法专题5</Filter>
+    </ClCompile>
+    <ClCompile Include="01-1921. 消灭怪物的最大数量.cpp">
+      <Filter>算法全解\094-贪心算法专题6</Filter>
+    </ClCompile>
+    <ClCompile Include="02-2384. 最大回文数字.cpp">
+      <Filter>算法全解\094-贪心算法专题6</Filter>
+    </ClCompile>
+    <ClCompile Include="03-1792. 最大平均通过率.cpp">
+      <Filter>算法全解\094-贪心算法专题6</Filter>
+    </ClCompile>
+    <ClCompile Include="04-857. 雇佣 K 名工人的最低成本.cpp">
+      <Filter>算法全解\094-贪心算法专题6</Filter>
+    </ClCompile>
+    <ClCompile Include="01-P1226 【模板】快速幂.cpp">
+      <Filter>数论</Filter>
+    </ClCompile>
+    <ClCompile Include="02-P1045 [NOIP 2003 普及组] 麦森数.cpp">
+      <Filter>数论</Filter>
+    </ClCompile>
+    <ClCompile Include="01-巴什博弈.cpp">
+      <Filter>算法全解\095-博弈类问题上</Filter>
+    </ClCompile>
+    <ClCompile Include="02-P4018 Roy&amp;October之取石子.cpp">
+      <Filter>算法全解\095-博弈类问题上</Filter>
+    </ClCompile>
+    <ClCompile Include="03-P2197 【模板】Nim 游戏.cpp">
+      <Filter>算法全解\095-博弈类问题上</Filter>
+    </ClCompile>
+    <ClCompile Include="04-P4279 [SHOI2008] 小约翰的游戏.cpp">
+      <Filter>算法全解\095-博弈类问题上</Filter>
+    </ClCompile>
+    <ClCompile Include="05-P6487 [COCI 2010 2011 #4] HRPA.cpp">
+      <Filter>算法全解\095-博弈类问题上</Filter>
+    </ClCompile>
+    <ClCompile Include="06-P2252 【模板】威佐夫博弈  [SHOI2002] 取石子游戏.cpp">
+      <Filter>算法全解\095-博弈类问题上</Filter>
+    </ClCompile>
+    <ClCompile Include="01-sg巴什博弈.cpp">
+      <Filter>算法全解\096-博弈类问题下</Filter>
+    </ClCompile>
+    <ClCompile Include="02-sg尼姆博弈.cpp">
+      <Filter>算法全解\096-博弈类问题下</Filter>
+    </ClCompile>
+    <ClCompile Include="03-两堆石头的巴什博弈.cpp">
+      <Filter>算法全解\096-博弈类问题下</Filter>
+    </ClCompile>
+    <ClCompile Include="04-三堆石头拿取斐波那契数博弈.cpp">
+      <Filter>算法全解\096-博弈类问题下</Filter>
+    </ClCompile>
+    <ClCompile Include="05-P2148 [SDOI2009] E&amp;D.cpp">
+      <Filter>算法全解\096-博弈类问题下</Filter>
+    </ClCompile>
+    <ClCompile Include="06-P3185 [HNOI2007] 分裂游戏.cpp">
+      <Filter>算法全解\096-博弈类问题下</Filter>
+    </ClCompile>
+    <ClCompile Include="01-判断较小的数字是否是质数.cpp">
+      <Filter>算法全解\097-质数判断，质因子分解，质数筛</Filter>
+    </ClCompile>
+    <ClCompile Include="02-U148828 素数判断%28Miller-Rabin模板%29.cpp">
+      <Filter>算法全解\097-质数判断，质因子分解，质数筛</Filter>
+    </ClCompile>
+    <ClCompile Include="03-952. 按公因数计算最大组件大小.cpp">
+      <Filter>算法全解\097-质数判断，质因子分解，质数筛</Filter>
+    </ClCompile>
+    <ClCompile Include="04-204. 计数质数.cpp">
+      <Filter>算法全解\097-质数判断，质因子分解，质数筛</Filter>
+    </ClCompile>
+    <ClCompile Include="01-509. 斐波那契数.cpp">
+      <Filter>算法全解\098-快速幂，矩阵快速幂</Filter>
+    </ClCompile>
+    <ClCompile Include="02-70. 爬楼梯.cpp">
+      <Filter>算法全解\098-快速幂，矩阵快速幂</Filter>
+    </ClCompile>
+    <ClCompile Include="03-1137. 第 N 个泰波那契数.cpp">
+      <Filter>算法全解\098-快速幂，矩阵快速幂</Filter>
+    </ClCompile>
+    <ClCompile Include="04-790. 多米诺和托米诺平铺.cpp">
+      <Filter>算法全解\098-快速幂，矩阵快速幂</Filter>
+    </ClCompile>
+    <ClCompile Include="05-1220. 统计元音字母序列的数目.cpp">
+      <Filter>算法全解\098-快速幂，矩阵快速幂</Filter>
+    </ClCompile>
+    <ClCompile Include="06-552. 学生出勤记录 II.cpp">
+      <Filter>算法全解\098-快速幂，矩阵快速幂</Filter>
+    </ClCompile>
+    <ClCompile Include="02-P3811 【模板】模意义下的乘法逆元.cpp">
+      <Filter>算法全解\099-逆元和除法同余，容斥原理</Filter>
+    </ClCompile>
+    <ClCompile Include="01-求逆元.cpp">
+      <Filter>算法全解\099-逆元和除法同余，容斥原理</Filter>
+    </ClCompile>
+    <ClCompile Include="03-连续阶乘逆元的线性递推.cpp">
+      <Filter>算法全解\099-逆元和除法同余，容斥原理</Filter>
+    </ClCompile>
+    <ClCompile Include="04-CF803F Coprime Subsequences.cpp">
+      <Filter>算法全解\099-逆元和除法同余，容斥原理</Filter>
+    </ClCompile>
+    <ClCompile Include="05-P1450 [HAOI2008] 硬币购物.cpp">
+      <Filter>算法全解\099-逆元和除法同余，容斥原理</Filter>
+    </ClCompile>
+    <ClCompile Include="01-P1028 [NOIP 2001 普及组] 数的计算.cpp">
+      <Filter>洛谷训练\1.4 函数，递归及递推</Filter>
+    </ClCompile>
+    <ClCompile Include="02-P1036 [NOIP 2002 普及组] 选数.cpp">
+      <Filter>洛谷训练\1.4 函数，递归及递推</Filter>
+    </ClCompile>
+    <ClCompile Include="03-P1464 Function.cpp">
+      <Filter>洛谷训练\1.4 函数，递归及递推</Filter>
+    </ClCompile>
+    <ClCompile Include="04-P5534 【XR-3】等差数列.cpp">
+      <Filter>洛谷训练\1.4 函数，递归及递推</Filter>
+    </ClCompile>
+    <ClCompile Include="05-P1192 台阶问题.cpp">
+      <Filter>洛谷训练\1.4 函数，递归及递推</Filter>
+    </ClCompile>
+    <ClCompile Include="06-P1025 [NOIP 2001 提高组] 数的划分.cpp">
+      <Filter>洛谷训练\1.4 函数，递归及递推</Filter>
+    </ClCompile>
+    <ClCompile Include="07-P4994 终于结束的起点.cpp">
+      <Filter>洛谷训练\1.4 函数，递归及递推</Filter>
+    </ClCompile>
+    <ClCompile Include="02-P1328 [NOIP 2014 提高组] 生活大爆炸版石头剪刀布.cpp">
+      <Filter>洛谷训练\2.1模拟</Filter>
+    </ClCompile>
+    <ClCompile Include="03-P1179 [NOIP 2010 普及组] 数字统计.cpp">
+      <Filter>洛谷训练\2.1模拟</Filter>
+    </ClCompile>
+    <ClCompile Include="04-P2615 [NOIP 2015 提高组] 神奇的幻方.cpp">
+      <Filter>洛谷训练\2.1模拟</Filter>
+    </ClCompile>
+    <ClCompile Include="05-未 P3952 [NOIP 2017 提高组] 时间复杂度.cpp">
+      <Filter>洛谷训练\2.1模拟</Filter>
+    </ClCompile>
+    <ClCompile Include="01-P5194 [USACO05DEC] Scales S.cpp">
+      <Filter>洛谷训练\3.1深度优先搜索</Filter>
+    </ClCompile>
+    <ClCompile Include="P2280 [HNOI2003] 激光炸弹.cpp">
+      <Filter>算法全解\048-二维前缀和，二维差分，离散化技巧</Filter>
+    </ClCompile>
+    <ClCompile Include="P2004 领地选择.cpp">
+      <Filter>算法全解\048-二维前缀和，二维差分，离散化技巧</Filter>
+    </ClCompile>
+    <ClCompile Include="P8306 【模板】字典树.cpp">
+      <Filter>算法全解\044-前缀树原理</Filter>
+    </ClCompile>
+    <ClCompile Include="P2580 于是他错误的点名开始了.cpp">
+      <Filter>算法全解\044-前缀树原理</Filter>
+    </ClCompile>
+    <ClCompile Include="P1029 [NOIP 2001 普及组] 最大公约数和最小公倍数问题.cpp">
+      <Filter>算法全解\041-最大公约数</Filter>
+    </ClCompile>
+    <ClCompile Include="P1865 A % B Problem.cpp">
+      <Filter>算法全解\041-最大公约数</Filter>
+    </ClCompile>
+    <ClCompile Include="P1102 A-B 数对 .cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="B4240 [海淀区小学组 2024] 最短字符串.cpp">
+      <Filter>算法全解\049-滑动窗口</Filter>
+    </ClCompile>
+    <ClCompile Include="P8783 [蓝桥杯 2022 省 B] 统计子矩阵.cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="P1638 逛画展.cpp">
+      <Filter>算法全解\050-双指针</Filter>
+    </ClCompile>
+    <ClCompile Include="B3694 【模板】数列离散化.cpp">
+      <Filter>算法全解\048-二维前缀和，二维差分，离散化技巧</Filter>
+    </ClCompile>
+    <ClCompile Include="P1314 [NOIP 2011 提高组] 聪明的质监员.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="P5026 Lycanthropy.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="P5019 [NOIP 2018 提高组] 铺设道路.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="P1969 [NOIP 2013 提高组] 积木大赛.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="P4231 三步必杀.cpp">
+      <Filter>算法全解\047-一维差分，等差数列差分，前缀和</Filter>
+    </ClCompile>
+    <ClCompile Include="6-P5788 【模板】单调栈.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="P1886 【模板】单调队列   滑动窗口.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="P1419 寻找段落.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="P1955 [NOI2015] 程序自动分析.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="P2078 朋友.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="P1536 村村通.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="P1506 拯救oibh总部.cpp">
+      <Filter>算法全解\058-洪水填充</Filter>
+    </ClCompile>
+    <ClCompile Include="LCR31.变换的迷宫.cpp">
+      <Filter>算法全解\058-洪水填充</Filter>
+    </ClCompile>
+    <ClCompile Include="B3644 【模板】拓扑排序   家谱树.cpp">
+      <Filter>算法全解\060-拓扑排序扩展技巧</Filter>
+    </ClCompile>
+    <ClCompile Include="P1983 [NOIP 2013 普及组] 车站分级.cpp">
+      <Filter>算法全解\060-拓扑排序扩展技巧</Filter>
+    </ClCompile>
+    <ClCompile Include="P1960 郁闷的记者.cpp">
+      <Filter>算法全解\060-拓扑排序扩展技巧</Filter>
+    </ClCompile>
+    <ClCompile Include="P1546 [USACO3.1] 最短网络 Agri-Net.cpp">
+      <Filter>算法全解\061-最小生成树</Filter>
+    </ClCompile>
+    <ClCompile Include="P1195 口袋的天空.cpp">
+      <Filter>算法全解\061-最小生成树</Filter>
+    </ClCompile>
+    <ClCompile Include="P1332 血色先锋队.cpp">
+      <Filter>算法全解\062-bfs\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="P4554 小明的游戏.cpp">
+      <Filter>算法全解\062-bfs\01BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="P4667 [BalticOI 2011] Switch the Lamp On (Day1).cpp">
+      <Filter>算法全解\062-bfs\01BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="P4011 孤岛营救问题.cpp">
+      <Filter>算法全解\064-Dijkstra  分层图最短路</Filter>
+    </ClCompile>
+    <ClCompile Include="P1379 八数码难题.cpp">
+      <Filter>算法全解\063-双向BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="P1746 离开中山路.cpp">
+      <Filter>算法全解\063-双向BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="P1629 邮递员送信.cpp">
+      <Filter>算法全解\064-Dijkstra  分层图最短路</Filter>
+    </ClCompile>
+    <ClCompile Include="P2939 [USACO09FEB] Revamping Trails G.cpp">
+      <Filter>算法全解\064-Dijkstra  分层图最短路</Filter>
+    </ClCompile>
+    <ClCompile Include="139.单词拆分.cpp">
+      <Filter>算法全解\044-前缀树原理</Filter>
+    </ClCompile>
+    <ClCompile Include="单词搜索 II .cpp">
+      <Filter>算法全解\044-前缀树原理</Filter>
+    </ClCompile>
+    <ClCompile Include="数组中两个数最大异或值哈希实现.cpp">
+      <Filter>算法全解\044-前缀树原理</Filter>
+    </ClCompile>
+    <ClCompile Include="P2034 选择数字.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="P1123 取数游戏.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="U593332 环上最大子段和.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </ClCompile>
+    <ClCompile Include="P1803 凌乱的yyy   线段覆盖.cpp">
+      <Filter>算法全解\072-最长递增子序列</Filter>
+    </ClCompile>
+    <ClCompile Include="P2871 [USACO07DEC] Charm Bracelet S.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P2340 [USACO03FALL] Cow Exhibition G.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P4310 绝世好题.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P1435 [IOI 2000] 回文字串.cpp">
+      <Filter>算法全解\076-区间dp</Filter>
+    </ClCompile>
+    <ClCompile Include="P2015 二叉苹果树.cpp">
+      <Filter>算法全解\078-树形dp</Filter>
+    </ClCompile>
+    <ClCompile Include="P1441 砝码称重.cpp">
+      <Filter>算法全解\080-状压dp</Filter>
+    </ClCompile>
+    <ClCompile Include="P3375 【模板】KMP.cpp">
+      <Filter>算法全解\100-KMP算法</Filter>
+    </ClCompile>
+    <ClCompile Include="572. 另一棵树的子树.cpp">
+      <Filter>算法全解\100-KMP算法</Filter>
+    </ClCompile>
+    <ClCompile Include="P4391 [BalticOI 2009] Radio Transmission 无线传输.cpp">
+      <Filter>算法全解\100-KMP算法</Filter>
+    </ClCompile>
+    <ClCompile Include="P4824 [USACO15FEB] Censoring S.cpp">
+      <Filter>算法全解\100-KMP算法</Filter>
+    </ClCompile>
+    <ClCompile Include="1367. 二叉树中的链表.cpp">
+      <Filter>算法全解\100-KMP算法</Filter>
+    </ClCompile>
+    <ClCompile Include="P1161 开灯.cpp">
+      <Filter>算法全解\030-位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="P2114 [NOI2014] 起床困难综合症.cpp">
+      <Filter>算法全解\030-位运算</Filter>
+    </ClCompile>
+    <ClCompile Include="P2388 阶乘之乘.cpp">
+      <Filter>洛谷训练\大整数</Filter>
+    </ClCompile>
+    <ClCompile Include="P1217 [USACO1.5] 回文质数 Prime Palindromes.cpp">
+      <Filter>算法全解\097-质数判断，质因子分解，质数筛</Filter>
+    </ClCompile>
+    <ClCompile Include="1397. 找到所有好字符串.cpp">
+      <Filter>算法全解\100-KMP算法</Filter>
+    </ClCompile>
+    <ClCompile Include="P1003 [NOIP 2011 提高组] 铺地毯.cpp">
+      <Filter>洛谷训练\字符串</Filter>
+    </ClCompile>
+    <ClCompile Include="P1005 [NOIP 2007 提高组] 矩阵取数游戏.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="P1201 [USACO1.1] 贪婪的送礼者 Greedy Gift Givers.cpp">
+      <Filter>洛谷训练\字符串\牛客竞赛语法入门班数组字符串习题</Filter>
+    </ClCompile>
+    <ClCompile Include="P3808 AC 自动机（简单版）.cpp">
+      <Filter>算法全解\102-AC自动机</Filter>
+    </ClCompile>
+    <ClCompile Include="P5357 【模板】AC 自动机.cpp">
+      <Filter>算法全解\102-AC自动机</Filter>
+    </ClCompile>
+    <ClCompile Include="P3435 [POI 2006] OKR-Periods of Words.cpp">
+      <Filter>算法全解\100-KMP算法</Filter>
+    </ClCompile>
+    <ClCompile Include="P1873 [COCI 2011 2012 #5] EKO 砍树.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="P3796 AC 自动机（简单版 II）.cpp">
+      <Filter>算法全解\102-AC自动机</Filter>
+    </ClCompile>
+    <ClCompile Include="P3311 [SDOI2014] 数数.cpp">
+      <Filter>算法全解\102-AC自动机</Filter>
+    </ClCompile>
+    <ClCompile Include="P2678 [NOIP 2015 提高组] 跳石头.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="P2032 扫描.cpp">
+      <Filter>算法全解\054-单调队列</Filter>
+    </ClCompile>
+    <ClCompile Include="P2925 [USACO08DEC] Hay For Sale S.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="bytedance-006. 夏季特惠.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P1466 [USACO2.2] 集合 Subset Sums.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P1631 序列合并.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="P1537 [MCERC 1999] 弹珠.cpp">
+      <Filter>算法全解\073-01背包，有依赖背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P2375 [NOI2014] 动物园.cpp">
+      <Filter>算法全解\100-KMP算法</Filter>
+    </ClCompile>
+    <ClCompile Include="P3805 【模板】Manacher.cpp">
+      <Filter>算法全解\103-Manacher算法，扩展KMP</Filter>
+    </ClCompile>
+    <ClCompile Include="P2440 木材加工.cpp">
+      <Filter>算法全解\051-二分答案</Filter>
+    </ClCompile>
+    <ClCompile Include="P5410 【模板】扩展 KMP  exKMP（Z 函数）.cpp">
+      <Filter>算法全解\103-Manacher算法，扩展KMP</Filter>
+    </ClCompile>
+    <ClCompile Include="P1210 [USACO1.3] 最长的回文 Calf Flac.cpp">
+      <Filter>算法全解\103-Manacher算法，扩展KMP</Filter>
+    </ClCompile>
+    <ClCompile Include="647. 回文子串.cpp">
+      <Filter>算法全解\103-Manacher算法，扩展KMP</Filter>
+    </ClCompile>
+    <ClCompile Include="2472. 不重叠回文子字符串的最大数目.cpp">
+      <Filter>算法全解\103-Manacher算法，扩展KMP</Filter>
+    </ClCompile>
+    <ClCompile Include="P1659 [国家集训队] 拉拉队排练.cpp">
+      <Filter>算法全解\103-Manacher算法，扩展KMP</Filter>
+    </ClCompile>
+    <ClCompile Include="P3167 [CQOI2014] 通配符匹配.cpp">
+      <Filter>算法全解\102-AC自动机</Filter>
+    </ClCompile>
+    <ClCompile Include="P13270 【模板】最小表示法.cpp">
+      <Filter>算法全解\最小表示法</Filter>
+    </ClCompile>
+    <ClCompile Include="P3501 [POI 2010] ANT-Antisymmetry.cpp">
+      <Filter>算法全解\103-Manacher算法，扩展KMP</Filter>
+    </ClCompile>
+    <ClCompile Include="P2444 [POI 2000] 病毒.cpp">
+      <Filter>算法全解\102-AC自动机</Filter>
+    </ClCompile>
+    <ClCompile Include="P5322 [BJOI2019] 排兵布阵.cpp">
+      <Filter>算法全解\074-分组背包，完全背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P4555 [国家集训队] 最长双回文串.cpp">
+      <Filter>算法全解\103-Manacher算法，扩展KMP</Filter>
+    </ClCompile>
+    <ClCompile Include="P1368 工艺.cpp">
+      <Filter>算法全解\最小表示法</Filter>
+    </ClCompile>
+    <ClCompile Include="P5365 [SNOI2017] 英雄联盟.cpp">
+      <Filter>算法全解\075-多重背包，混合背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P1782 旅行商的背包.cpp">
+      <Filter>算法全解\075-多重背包，混合背包</Filter>
+    </ClCompile>
+    <ClCompile Include="P4544 [USACO10NOV] Buying Feed G.cpp">
+      <Filter>算法全解\075-多重背包，混合背包</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P3374 【模板】树状数组 1.cpp">
+      <Filter>算法全解\108-树状数组</Filter>
+    </ClCompile>
+    <ClCompile Include="2-P3368 【模板】树状数组 2.cpp">
+      <Filter>算法全解\108-树状数组</Filter>
+    </ClCompile>
+    <ClCompile Include="3-P3372 【模板】线段树 1.cpp">
+      <Filter>算法全解\108-树状数组</Filter>
+    </ClCompile>
+    <ClCompile Include="5-P4514 上帝造题的七分钟.cpp">
+      <Filter>算法全解\108-树状数组</Filter>
+    </ClCompile>
+    <ClCompile Include="P3966 [TJOI2013] 单词.cpp">
+      <Filter>算法全解\102-AC自动机</Filter>
+    </ClCompile>
+    <ClCompile Include="P1637 三元上升子序列.cpp">
+      <Filter>算法全解\108-树状数组</Filter>
+    </ClCompile>
+    <ClCompile Include="673. 最长递增子序列的个数.cpp">
+      <Filter>算法全解\108-树状数组</Filter>
+    </ClCompile>
+    <ClCompile Include="2193. 得到回文串的最少操作次数.cpp">
+      <Filter>算法全解\108-树状数组</Filter>
+    </ClCompile>
+    <ClCompile Include="P1972 [SDOI2009] HH 的项链.cpp">
+      <Filter>算法全解\108-树状数组</Filter>
+    </ClCompile>
+    <ClCompile Include="P3372 【模板】线段树1.cpp">
+      <Filter>算法全解\110-线段树专题1 原理</Filter>
+    </ClCompile>
+    <ClCompile Include="范围重置查询 维护和.cpp">
+      <Filter>算法全解\110-线段树专题1 原理</Filter>
+    </ClCompile>
+    <ClCompile Include="范围增加查询 维护最大值.cpp">
+      <Filter>算法全解\110-线段树专题1 原理</Filter>
+    </ClCompile>
+    <ClCompile Include="P1253 扶苏的问题.cpp">
+      <Filter>算法全解\110-线段树专题1 原理</Filter>
+    </ClCompile>
+    <ClCompile Include="699. 掉落的方块.cpp">
+      <Filter>算法全解\111-线段树专题2 离散化，二分，特别修改</Filter>
+    </ClCompile>
+    <ClCompile Include="Vases and Flowers.cpp">
+      <Filter>算法全解\111-线段树专题2 离散化，二分，特别修改</Filter>
+    </ClCompile>
+    <ClCompile Include="范围重置查询 维护最大值.cpp">
+      <Filter>算法全解\110-线段树专题1 原理</Filter>
+    </ClCompile>
+    <ClCompile Include="范围重置查询增加 维护和.cpp">
+      <Filter>算法全解\110-线段树专题1 原理</Filter>
+    </ClCompile>
+    <ClCompile Include="P4145 上帝造题的七分钟 2   花神游历各国.cpp">
+      <Filter>算法全解\111-线段树专题2 离散化，二分，特别修改</Filter>
+    </ClCompile>
+    <ClCompile Include="D. The Child and Sequence.cpp">
+      <Filter>算法全解\111-线段树专题2 离散化，二分，特别修改</Filter>
+    </ClCompile>
+    <ClCompile Include="P3740 [HAOI2014] 贴海报.cpp">
+      <Filter>算法全解\111-线段树专题2 离散化，二分，特别修改</Filter>
+    </ClCompile>
+    <ClCompile Include="P3870 [TJOI2009] 开关.cpp">
+      <Filter>算法全解\112-线段树专题3 维护更多信息</Filter>
+    </ClCompile>
+    <ClCompile Include="P2184 贪婪大陆.cpp">
+      <Filter>算法全解\112-线段树专题3 维护更多信息</Filter>
+    </ClCompile>
+    <ClCompile Include="P1438 无聊的数列.cpp">
+      <Filter>算法全解\112-线段树专题3 维护更多信息</Filter>
+    </ClCompile>
+    <ClCompile Include="P1471 方差.cpp">
+      <Filter>算法全解\112-线段树专题3 维护更多信息</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P2572 [SCOI2010] 序列操作.cpp">
+      <Filter>算法全解\113-线段树专题4 区间合并</Filter>
+    </ClCompile>
+    <ClCompile Include="2-P6492 [COCI 2010 2011 #6] STEP.cpp">
+      <Filter>算法全解\113-线段树专题4 区间合并</Filter>
+    </ClCompile>
+    <ClCompile Include="P1503 鬼子进村.cpp">
+      <Filter>算法全解\113-线段树专题4 区间合并</Filter>
+    </ClCompile>
+    <ClCompile Include="P2894 [USACO08FEB] Hotel G.cpp">
+      <Filter>算法全解\113-线段树专题4 区间合并</Filter>
+    </ClCompile>
+    <ClCompile Include="P2781 传教.cpp">
+      <Filter>算法全解\114-线段树专题5 开点线段树，区间最值，历史最值</Filter>
+    </ClCompile>
+    <ClCompile Include="2276. 统计区间中的整数数目.cpp">
+      <Filter>算法全解\114-线段树专题5 开点线段树，区间最值，历史最值</Filter>
+    </ClCompile>
+    <ClCompile Include="Gorgeous Sequence.cpp">
+      <Filter>算法全解\114-线段树专题5 开点线段树，区间最值，历史最值</Filter>
+    </ClCompile>
+    <ClCompile Include="P6242 【模板】线段树 3（区间最值操作、区间历史最值）.cpp">
+      <Filter>算法全解\114-线段树专题5 开点线段树，区间最值，历史最值</Filter>
+    </ClCompile>
+    <ClCompile Include="P1904 天际线.cpp">
+      <Filter>算法全解\115-线段树专题6 扫描线</Filter>
+    </ClCompile>
+    <ClCompile Include="P5490 【模板】扫描线 &amp; 矩形面积并.cpp">
+      <Filter>算法全解\115-线段树专题6 扫描线</Filter>
+    </ClCompile>
+    <ClCompile Include="169. 多数元素.cpp">
+      <Filter>算法全解\116-摩尔投票系列问题</Filter>
+    </ClCompile>
+    <ClCompile Include="2780. 合法分割的最小下标.cpp">
+      <Filter>算法全解\116-摩尔投票系列问题</Filter>
+    </ClCompile>
+    <ClCompile Include="229. 多数元素 II.cpp">
+      <Filter>算法全解\116-摩尔投票系列问题</Filter>
+    </ClCompile>
+    <ClCompile Include="1157. 子数组中占绝大多数的元素.cpp">
+      <Filter>算法全解\116-摩尔投票系列问题</Filter>
+    </ClCompile>
+    <ClCompile Include="P1856 [IOI 1998   USACO5.5] 矩形周长 Picture.cpp">
+      <Filter>算法全解\115-线段树专题6 扫描线</Filter>
+    </ClCompile>
+    <ClCompile Include="string.cpp">
+      <Filter>算法全解</Filter>
+    </ClCompile>
+    <ClCompile Include="1-从高到低打印二进制状态.cpp">
+      <Filter>算法全解\117-倍增算法和ST表</Filter>
+    </ClCompile>
+    <ClCompile Include="2-打印一个数最大是2的几次幂.cpp">
+      <Filter>算法全解\117-倍增算法和ST表</Filter>
+    </ClCompile>
+    <ClCompile Include="3-P4155 [SCOI2015] 国旗计划.cpp">
+      <Filter>算法全解\117-倍增算法和ST表</Filter>
+    </ClCompile>
+    <ClCompile Include="4-P2880 [USACO07JAN] Balanced Lineup G.cpp">
+      <Filter>算法全解\117-倍增算法和ST表</Filter>
+    </ClCompile>
+    <ClCompile Include="5-P1890 gcd 区间.cpp">
+      <Filter>算法全解\117-倍增算法和ST表</Filter>
+    </ClCompile>
+    <ClCompile Include="6-UVA11235 Frequent values.cpp">
+      <Filter>算法全解\117-倍增算法和ST表</Filter>
+    </ClCompile>
+    <ClCompile Include="1-1483. 树节点的第 K 个祖先.cpp">
+      <Filter>算法全解\118-树上专题1和2 树上倍增和LCA</Filter>
+    </ClCompile>
+    <ClCompile Include="2-P3379 【模板】最近公共祖先（LCA）.cpp">
+      <Filter>算法全解\118-树上专题1和2 树上倍增和LCA</Filter>
+    </ClCompile>
+    <ClCompile Include="3-P3379 【模板】最近公共祖先（LCA）.cpp">
+      <Filter>算法全解\118-树上专题1和2 树上倍增和LCA</Filter>
+    </ClCompile>
+    <ClCompile Include="4-P4281 [AHOI2008] 紧急集合 聚会.cpp">
+      <Filter>算法全解\118-树上专题1和2 树上倍增和LCA</Filter>
+    </ClCompile>
+    <ClCompile Include="5-P1967 [NOIP 2013 提高组] 货车运输.cpp">
+      <Filter>算法全解\118-树上专题1和2 树上倍增和LCA</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2846. 边权重均等查询.cpp">
+      <Filter>算法全解\118-树上专题1和2 树上倍增和LCA</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2836. 在传球游戏中最大化函数值.cpp">
+      <Filter>算法全解\118-树上专题1和2 树上倍增和LCA</Filter>
+    </ClCompile>
+    <ClCompile Include="8-Bingbong的回文路径.cpp">
+      <Filter>算法全解\118-树上专题1和2 树上倍增和LCA</Filter>
+    </ClCompile>
+    <ClCompile Include="30. 串联所有单词的子串.cpp">
+      <Filter>算法全解\105-字符串哈希</Filter>
+    </ClCompile>
+    <ClCompile Include="686. 重复叠加字符串匹配.cpp">
+      <Filter>算法全解\105-字符串哈希</Filter>
+    </ClCompile>
+    <ClCompile Include="P3370 【模板】字符串哈希.cpp">
+      <Filter>算法全解\105-字符串哈希</Filter>
+    </ClCompile>
+    <ClCompile Include="P3763 [TJOI2017] DNA.cpp">
+      <Filter>算法全解\105-字符串哈希</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P3258 [JLOI2014] 松鼠的新家.cpp">
+      <Filter>算法全解\122-树上专题5 树上差分</Filter>
+    </ClCompile>
+    <ClCompile Include="2-2646. 最小化旅行的价格总和.cpp">
+      <Filter>算法全解\122-树上专题5 树上差分</Filter>
+    </ClCompile>
+    <ClCompile Include="3-Network.cpp">
+      <Filter>算法全解\122-树上专题5 树上差分</Filter>
+    </ClCompile>
+    <ClCompile Include="4-P2680 [NOIP 2015 提高组] 运输计划.cpp">
+      <Filter>算法全解\122-树上专题5 树上差分</Filter>
+    </ClCompile>
+    <ClCompile Include="可删除并查集的实现.cpp">
+      <Filter>算法全解\056-并查集</Filter>
+    </ClCompile>
+    <ClCompile Include="1-树的重心性质.cpp">
+      <Filter>算法全解\120-树上专题3 树的重心</Filter>
+    </ClCompile>
+    <ClCompile Include="2-Balancing Act.cpp">
+      <Filter>算法全解\120-树上专题3 树的重心</Filter>
+    </ClCompile>
+    <ClCompile Include="3-Godfather.cpp">
+      <Filter>算法全解\120-树上专题3 树的重心</Filter>
+    </ClCompile>
+    <ClCompile Include="4-P2986 [USACO10MAR] Great Cow Gathering G.cpp">
+      <Filter>算法全解\120-树上专题3 树的重心</Filter>
+    </ClCompile>
+    <ClCompile Include="1-大整数加减法.cpp">
+      <Filter>算法全解\大整数运算</Filter>
+    </ClCompile>
+    <ClCompile Include="1-求不带负权的直径.cpp">
+      <Filter>算法全解\121-树上专题4 树的直径</Filter>
+    </ClCompile>
+    <ClCompile Include="2-求带负权的直径.cpp">
+      <Filter>算法全解\121-树上专题4 树的直径</Filter>
+    </ClCompile>
+    <ClCompile Include="3-P3304 [SDOI2013] 直径.cpp">
+      <Filter>算法全解\121-树上专题4 树的直径</Filter>
+    </ClCompile>
+    <ClCompile Include="4-P2195 HXY造公园.cpp">
+      <Filter>算法全解\121-树上专题4 树的直径</Filter>
+    </ClCompile>
+    <ClCompile Include="5-P3629 [APIO2010] 巡逻.cpp">
+      <Filter>算法全解\121-树上专题4 树的直径</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P3478 [POI 2008] STA-Station.cpp">
+      <Filter>算法全解\123-树上专题6 换根dp</Filter>
+    </ClCompile>
+    <ClCompile Include="6-P2491 [SDOI2011] 消防.cpp">
+      <Filter>算法全解\121-树上专题4 树的直径</Filter>
+    </ClCompile>
+    <ClCompile Include="2-CF1187E Tree Painting.cpp">
+      <Filter>算法全解\123-树上专题6 换根dp</Filter>
+    </ClCompile>
+    <ClCompile Include="3-CF219D Choosing Capital for Treeland.cpp">
+      <Filter>算法全解\123-树上专题6 换根dp</Filter>
+    </ClCompile>
+    <ClCompile Include="4-Accumulation Degree.cpp">
+      <Filter>算法全解\123-树上专题6 换根dp</Filter>
+    </ClCompile>
+    <ClCompile Include="5-P3047 [USACO12FEB] Nearby Cows G.cpp">
+      <Filter>算法全解\123-树上专题6 换根dp</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P1879 [USACO06NOV] Corn Fields G.cpp">
+      <Filter>算法全解\125-轮廓线dp</Filter>
+    </ClCompile>
+    <ClCompile Include="2-Mondriaan%27s Dream.cpp">
+      <Filter>算法全解\125-轮廓线dp</Filter>
+    </ClCompile>
+    <ClCompile Include="3-P2435 染色.cpp">
+      <Filter>算法全解\125-轮廓线dp</Filter>
+    </ClCompile>
+    <ClCompile Include="4-P1896 [SCOI2005] 互不侵犯.cpp">
+      <Filter>算法全解\125-轮廓线dp</Filter>
+    </ClCompile>
+    <ClCompile Include="1-1659. 最大化网格幸福感.cpp">
+      <Filter>算法全解\126-三进制dp</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P1044 [NOIP 2003 普及组] 栈.cpp">
+      <Filter>算法全解\147-卡特兰数题型详解和取模处理</Filter>
+    </ClCompile>
+    <ClCompile Include="2-P1976 鸡蛋饼.cpp">
+      <Filter>算法全解\147-卡特兰数题型详解和取模处理</Filter>
+    </ClCompile>
+    <ClCompile Include="3-P1722 矩阵 II.cpp">
+      <Filter>算法全解\147-卡特兰数题型详解和取模处理</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P3389 【模板】高斯消元法.cpp">
+      <Filter>算法全解\133-高斯消元专题1-解决加法方程组</Filter>
+    </ClCompile>
+    <ClCompile Include="1-单调栈结构(进阶).cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="1-210.课程表II.cpp">
+      <Filter>算法全解\059-建图和拓扑排序</Filter>
+    </ClCompile>
+    <ClCompile Include="2-【模板】拓扑排序.cpp">
+      <Filter>算法全解\059-建图和拓扑排序</Filter>
+    </ClCompile>
+    <ClCompile Include="3-U107394 拓扑排序模板.cpp">
+      <Filter>算法全解\059-建图和拓扑排序</Filter>
+    </ClCompile>
+    <ClCompile Include="321.拼接最大数.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="402.移掉k位数字.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="496.下一个更大元素I.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="1475.商品折扣后的最终价格.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="1504.统计全1子矩形.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="P1578 [WC2002] 奶牛浴场.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="P1901 发射站.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="P2659 美丽的序列.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="P2866 [USACO06NOV] Bad Hair Day S.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="P2947 [USACO09MAR] Look Up S.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="P3467 [POI 2008] PLA-Postering.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="P4147 玉蟾宫.cpp">
+      <Filter>算法全解\052-单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="4-LCR 114.火星词典.cpp">
+      <Filter>算法全解\059-建图和拓扑排序</Filter>
+    </ClCompile>
+    <ClCompile Include="4-二维区域和检索-矩阵可修改.cpp">
+      <Filter>算法全解\108-树状数组</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P1908 逆序对.cpp">
+      <Filter>算法全解\109-树状数组题目</Filter>
+    </ClCompile>
+    <ClCompile Include="5-936.戳印序列.cpp">
+      <Filter>算法全解\059-建图和拓扑排序</Filter>
+    </ClCompile>
+    <ClCompile Include="1-962.最大宽度坡.cpp">
+      <Filter>算法全解\053-单调栈题目</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P4549 【模板】裴蜀定理.cpp">
+      <Filter>算法全解\139-裴蜀定理和扩展欧几里得算法</Filter>
+    </ClCompile>
+    <ClCompile Include="2-Pagodas.cpp">
+      <Filter>算法全解\139-裴蜀定理和扩展欧几里得算法</Filter>
+    </ClCompile>
+    <ClCompile Include="3-Uniform Generator.cpp">
+      <Filter>算法全解\139-裴蜀定理和扩展欧几里得算法</Filter>
+    </ClCompile>
+    <ClCompile Include="4-P1082 [NOIP 2012 提高组] 同余方程.cpp">
+      <Filter>算法全解\139-裴蜀定理和扩展欧几里得算法</Filter>
+    </ClCompile>
+    <ClCompile Include="5-P2054 [AHOI2005] 洗牌.cpp">
+      <Filter>算法全解\139-裴蜀定理和扩展欧几里得算法</Filter>
+    </ClCompile>
+    <ClCompile Include="固定数组动态实现.cpp">
+      <Filter>算法全解\044-前缀树原理</Filter>
+    </ClCompile>
+    <ClCompile Include="哈希表动态实现.cpp">
+      <Filter>算法全解\044-前缀树原理</Filter>
+    </ClCompile>
+    <ClCompile Include="基本知识.cpp">
+      <Filter>算法全解\044-前缀树原理</Filter>
+    </ClCompile>
+    <ClCompile Include="静态数组实现.cpp">
+      <Filter>算法全解\044-前缀树原理</Filter>
+    </ClCompile>
+    <ClCompile Include="1-接头密匙.cpp">
+      <Filter>算法全解\045-前缀树题目</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P5656 【模板】二元一次不定方程 (exgcd).cpp">
+      <Filter>算法全解\140-扩展欧几里得和二元一次不定方程</Filter>
+    </ClCompile>
+    <ClCompile Include="2-P1516 青蛙的约会.cpp">
+      <Filter>算法全解\140-扩展欧几里得和二元一次不定方程</Filter>
+    </ClCompile>
+    <ClCompile Include="3-How Many Points.cpp">
+      <Filter>算法全解\140-扩展欧几里得和二元一次不定方程</Filter>
+    </ClCompile>
+    <ClCompile Include="4-Area.cpp">
+      <Filter>算法全解\140-扩展欧几里得和二元一次不定方程</Filter>
+    </ClCompile>
+    <ClCompile Include="5-P3951 [NOIP 2017 提高组] 小凯的疑惑.cpp">
+      <Filter>算法全解\140-扩展欧几里得和二元一次不定方程</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P1495 【模板】中国剩余定理（CRT）曹冲养猪.cpp">
+      <Filter>算法全解\141-中国剩余定理及其扩展</Filter>
+    </ClCompile>
+    <ClCompile Include="2-P4777 【模板】扩展中国剩余定理（EXCRT）.cpp">
+      <Filter>算法全解\141-中国剩余定理及其扩展</Filter>
+    </ClCompile>
+    <ClCompile Include="3-P3868 [TJOI2009] 猜数字.cpp">
+      <Filter>算法全解\141-中国剩余定理及其扩展</Filter>
+    </ClCompile>
+    <ClCompile Include="2-421. 数组中两个数的最大异或值.cpp">
+      <Filter>算法全解\045-前缀树题目</Filter>
+    </ClCompile>
+    <ClCompile Include="2-316.去除重复字母.cpp">
+      <Filter>算法全解\053-单调栈题目</Filter>
+    </ClCompile>
+    <ClCompile Include="1-P3810 【模板】三维偏序  陌上花开.cpp">
+      <Filter>算法全解\170-CDQ分治</Filter>
+    </ClCompile>
+    <ClCompile Include="2-P3157 [CQOI2011] 动态逆序对.cpp">
+      <Filter>算法全解\170-CDQ分治</Filter>
+    </ClCompile>
+    <ClCompile Include="3-P2163 [SHOI2007] 园丁的烦恼.cpp">
+      <Filter>算法全解\170-CDQ分治</Filter>
+    </ClCompile>
+    <ClCompile Include="1-741. 摘樱桃.cpp">
+      <Filter>算法全解\127-动态规划状态优化设计</Filter>
+    </ClCompile>
+    <ClCompile Include="2-P8775 [蓝桥杯 2022 省 A] 青蛙过河.cpp">
+      <Filter>算法全解\127-动态规划状态优化设计</Filter>
+    </ClCompile>
+    <ClCompile Include="3-B. The Number of Products.cpp">
+      <Filter>算法全解\127-动态规划状态优化设计</Filter>
+    </ClCompile>
+    <ClCompile Include="4-P3755 [CQOI2017] 老 C 的任务.cpp">
+      <Filter>算法全解\170-CDQ分治</Filter>
+    </ClCompile>
+    <ClCompile Include="5-P4390 [BalkanOI 2007] Mokia 摩基亚.cpp">
+      <Filter>算法全解\170-CDQ分治</Filter>
+    </ClCompile>
+    <ClCompile Include="6-P4169 [Violet] 天使玩偶 SJY摆棋子.cpp">
+      <Filter>算法全解\170-CDQ分治</Filter>
+    </ClCompile>
+    <ClCompile Include="188-欧拉路径和欧拉回路\1-P7771 【模板】欧拉路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="188-欧拉路径和欧拉回路\2-P2731 [USACO3.3] 骑马修栅栏 Riding the Fences.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="142-负环和差分约束\1-P5960 【模板】差分约束.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="152.乘积最大子数组.cpp">
+      <Filter>算法全解\070-子数组最大累加和问题</Filter>
+    </None>
+  </ItemGroup>
+</Project>
