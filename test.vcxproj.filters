@@ -2225,5 +2225,8 @@
     <ClCompile Include="算法\最优装载问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\142-负环和差分约束\2-P5960 【模板】差分约束.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
