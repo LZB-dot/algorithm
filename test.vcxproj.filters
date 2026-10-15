@@ -2228,5 +2228,8 @@
     <ClCompile Include="算法\算法全解\142-负环和差分约束\2-P5960 【模板】差分约束.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\3-P1127 词链.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
