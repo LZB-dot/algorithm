@@ -2231,5 +2231,11 @@
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\3-P1127 词链.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\142-负环和差分约束\3-P1993 小 K 的农场.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\4-2097. 合法重新排列数对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

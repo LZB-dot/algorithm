@@ -821,6 +821,7 @@
     <ClCompile Include="算法\算法全解\141-中国剩余定理及其扩展\3-P3868 [TJOI2009] 猜数字.cpp" />
     <ClCompile Include="算法\算法全解\142-负环和差分约束\1-P5960 【模板】差分约束.cpp" />
     <ClCompile Include="算法\算法全解\142-负环和差分约束\2-P5960 【模板】差分约束.cpp" />
+    <ClCompile Include="算法\算法全解\142-负环和差分约束\3-P1993 小 K 的农场.cpp" />
     <ClCompile Include="算法\算法全解\147-卡特兰数题型详解和取模处理\1-P1044 [NOIP 2003 普及组] 栈.cpp" />
     <ClCompile Include="算法\算法全解\147-卡特兰数题型详解和取模处理\2-P1976 鸡蛋饼.cpp" />
     <ClCompile Include="算法\算法全解\147-卡特兰数题型详解和取模处理\3-P1722 矩阵 II.cpp" />
@@ -833,6 +834,7 @@
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\1-P7771 【模板】欧拉路径.cpp" />
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\2-P2731 [USACO3.3] 骑马修栅栏 Riding the Fences.cpp" />
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\3-P1127 词链.cpp" />
+    <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\4-2097. 合法重新排列数对.cpp" />
     <ClCompile Include="算法\算法全解\string.cpp" />
     <ClCompile Include="算法\算法全解\力扣\46.全排列.cpp" />
     <ClCompile Include="算法\算法全解\力扣\47.全排列II.cpp" />
