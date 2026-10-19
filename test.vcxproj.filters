@@ -2240,5 +2240,8 @@
     <ClCompile Include="算法\算法全解\142-负环和差分约束\4-P4878 [USACO05DEC] Layout G.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\1-P5905 【模板】全源最短路（Johnson）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
