@@ -837,6 +837,7 @@
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\3-P1127 词链.cpp" />
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\4-2097. 合法重新排列数对.cpp" />
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\1-P5905 【模板】全源最短路（Johnson）.cpp" />
+    <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\2-B3611 【模板】传递闭包.cpp" />
     <ClCompile Include="算法\算法全解\string.cpp" />
     <ClCompile Include="算法\算法全解\力扣\46.全排列.cpp" />
     <ClCompile Include="算法\算法全解\力扣\47.全排列II.cpp" />
