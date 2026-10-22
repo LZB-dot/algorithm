@@ -824,6 +824,7 @@
     <ClCompile Include="算法\算法全解\142-负环和差分约束\3-P1993 小 K 的农场.cpp" />
     <ClCompile Include="算法\算法全解\142-负环和差分约束\4-P4878 [USACO05DEC] Layout G.cpp" />
     <ClCompile Include="算法\算法全解\142-负环和差分约束\5-P4926 [1007] 倍杀测量者.cpp" />
+    <ClCompile Include="算法\算法全解\142-负环和差分约束\6-P2474 [SCOI2008] 天平.cpp" />
     <ClCompile Include="算法\算法全解\147-卡特兰数题型详解和取模处理\1-P1044 [NOIP 2003 普及组] 栈.cpp" />
     <ClCompile Include="算法\算法全解\147-卡特兰数题型详解和取模处理\2-P1976 鸡蛋饼.cpp" />
     <ClCompile Include="算法\算法全解\147-卡特兰数题型详解和取模处理\3-P1722 矩阵 II.cpp" />

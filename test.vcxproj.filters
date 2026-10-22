@@ -2252,5 +2252,8 @@
     <ClCompile Include="算法\算法全解\189-强连通分量与缩点上\1-B3609 [图论与代数结构 701] 强连通分量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\142-负环和差分约束\6-P2474 [SCOI2008] 天平.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
