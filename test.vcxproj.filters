@@ -2246,5 +2246,11 @@
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\2-B3611 【模板】传递闭包.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\142-负环和差分约束\5-P4926 [1007] 倍杀测量者.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算法\算法全解\189-强连通分量与缩点上\1-B3609 [图论与代数结构 701] 强连通分量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

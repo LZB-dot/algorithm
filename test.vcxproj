@@ -823,6 +823,7 @@
     <ClCompile Include="算法\算法全解\142-负环和差分约束\2-P5960 【模板】差分约束.cpp" />
     <ClCompile Include="算法\算法全解\142-负环和差分约束\3-P1993 小 K 的农场.cpp" />
     <ClCompile Include="算法\算法全解\142-负环和差分约束\4-P4878 [USACO05DEC] Layout G.cpp" />
+    <ClCompile Include="算法\算法全解\142-负环和差分约束\5-P4926 [1007] 倍杀测量者.cpp" />
     <ClCompile Include="算法\算法全解\147-卡特兰数题型详解和取模处理\1-P1044 [NOIP 2003 普及组] 栈.cpp" />
     <ClCompile Include="算法\算法全解\147-卡特兰数题型详解和取模处理\2-P1976 鸡蛋饼.cpp" />
     <ClCompile Include="算法\算法全解\147-卡特兰数题型详解和取模处理\3-P1722 矩阵 II.cpp" />
@@ -836,6 +837,7 @@
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\2-P2731 [USACO3.3] 骑马修栅栏 Riding the Fences.cpp" />
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\3-P1127 词链.cpp" />
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\4-2097. 合法重新排列数对.cpp" />
+    <ClCompile Include="算法\算法全解\189-强连通分量与缩点上\1-B3609 [图论与代数结构 701] 强连通分量.cpp" />
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\1-P5905 【模板】全源最短路（Johnson）.cpp" />
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\2-B3611 【模板】传递闭包.cpp" />
     <ClCompile Include="算法\算法全解\string.cpp" />
