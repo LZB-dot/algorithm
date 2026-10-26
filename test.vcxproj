@@ -805,7 +805,6 @@
     <ClCompile Include="算法\算法全解\127-动态规划状态优化设计\1-741. 摘樱桃.cpp" />
     <ClCompile Include="算法\算法全解\127-动态规划状态优化设计\2-P8775 [蓝桥杯 2022 省 A] 青蛙过河.cpp" />
     <ClCompile Include="算法\算法全解\127-动态规划状态优化设计\3-B. The Number of Products.cpp" />
-    <ClCompile Include="算法\算法全解\133-高斯消元专题1-解决加法方程组\1-P3389 【模板】高斯消元法.cpp" />
     <ClCompile Include="算法\算法全解\139-裴蜀定理和扩展欧几里得算法\1-P4549 【模板】裴蜀定理.cpp" />
     <ClCompile Include="算法\算法全解\139-裴蜀定理和扩展欧几里得算法\2-Pagodas.cpp" />
     <ClCompile Include="算法\算法全解\139-裴蜀定理和扩展欧几里得算法\3-Uniform Generator.cpp" />
@@ -840,6 +839,7 @@
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\4-2097. 合法重新排列数对.cpp" />
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\5-753. 破解保险箱.cpp" />
     <ClCompile Include="算法\算法全解\189-强连通分量与缩点上\1-B3609 [图论与代数结构 701] 强连通分量.cpp" />
+    <ClCompile Include="算法\算法全解\189-强连通分量与缩点上\2-U224391 【模板】强连通分量.cpp" />
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\1-P5905 【模板】全源最短路（Johnson）.cpp" />
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\2-B3611 【模板】传递闭包.cpp" />
     <ClCompile Include="算法\算法全解\string.cpp" />

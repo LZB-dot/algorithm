@@ -1730,9 +1730,6 @@
     <ClCompile Include="算法\算法全解\127-动态规划状态优化设计\3-B. The Number of Products.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="算法\算法全解\133-高斯消元专题1-解决加法方程组\1-P3389 【模板】高斯消元法.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="算法\算法全解\139-裴蜀定理和扩展欧几里得算法\1-P4549 【模板】裴蜀定理.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -2256,6 +2253,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\5-753. 破解保险箱.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算法\算法全解\189-强连通分量与缩点上\2-U224391 【模板】强连通分量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
