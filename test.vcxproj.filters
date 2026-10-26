@@ -2255,5 +2255,8 @@
     <ClCompile Include="算法\算法全解\142-负环和差分约束\6-P2474 [SCOI2008] 天平.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\5-753. 破解保险箱.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
