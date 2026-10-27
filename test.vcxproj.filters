@@ -2261,5 +2261,8 @@
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\3-P2881 [USACO07MAR] Ranking the Cows G.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\6-P10950 太鼓达人.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
