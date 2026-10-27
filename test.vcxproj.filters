@@ -2258,5 +2258,8 @@
     <ClCompile Include="算法\算法全解\189-强连通分量与缩点上\2-U224391 【模板】强连通分量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\3-P2881 [USACO07MAR] Ranking the Cows G.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
