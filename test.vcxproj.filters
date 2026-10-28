@@ -2270,5 +2270,8 @@
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\4-P4306 [JSOI2010] 连通数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\191-割边，边双连通分量和缩点\1-U582665 【模板】割边.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
