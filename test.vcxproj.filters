@@ -2267,5 +2267,8 @@
     <ClCompile Include="算法\算法全解\189-强连通分量与缩点上\3-P1726 上白泽慧音.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\4-P4306 [JSOI2010] 连通数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
