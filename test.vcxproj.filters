@@ -2276,5 +2276,8 @@
     <ClCompile Include="算法\算法全解\191-割边，边双连通分量和缩点\2-P8436 【模板】边双连通分量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\190-强连通分量和缩点下\1-P3387 【模板】缩点  强连通分量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
