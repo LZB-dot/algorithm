@@ -2264,5 +2264,8 @@
     <ClCompile Include="算法\算法全解\188-欧拉路径和欧拉回路\6-P10950 太鼓达人.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\189-强连通分量与缩点上\3-P1726 上白泽慧音.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
