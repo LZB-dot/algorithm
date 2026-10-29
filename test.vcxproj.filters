@@ -1520,7 +1520,7 @@
     <ClCompile Include="算法\算法全解\110-线段树专题1 原理\P1253 扶苏的问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="算法\算法全解\110-线段树专题1 原理\P3372 【模板】线段树1.cpp">
+    <ClCompile Include="算法\算法全解\110-线段树专题1 原理\1-P3372 【模板】线段树1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="算法\算法全解\110-线段树专题1 原理\范围增加查询 维护最大值.cpp">

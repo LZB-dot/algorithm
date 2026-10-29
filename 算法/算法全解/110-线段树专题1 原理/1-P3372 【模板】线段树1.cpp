@@ -1,3 +1,6 @@
+//
+////https://www.luogu.com.cn/problem/P3372
+//
 //#include <iostream>
 //#include <cstdio>
 //using namespace std;
@@ -5,6 +8,7 @@
 //typedef long long ll;
 //
 //const int MAXN = 100005;
+//
 //ll arr[MAXN];
 //ll sum[MAXN << 2];// 线段树维护的区间和数组，4倍空间是线段树标配
 //ll increase[MAXN << 2];// 懒标记数组，存储区间待更新的增量
@@ -39,9 +43,8 @@
 //// l:当前节点代表区间左边界 r:右边界 rt:当前节点编号
 //void build(int l, int r, int rt) {
 //    // 叶子节点：直接赋值为原数组值
-//    if (l == r) {
+//    if (l == r) 
 //        sum[rt] = arr[l];
-//    }
 //    else {
 //        int mid = l + ((r - l) >> 1);
 //        // 递归建左子树
@@ -60,9 +63,8 @@
 //// l,r,rt:当前节点的区间和编号
 //void add(int jobl, int jobr, ll jobv, int l, int r, int rt) {
 //    // 当前节点区间 完全包含 在目标区间内：直接更新，打懒标记，不用下发
-//    if (jobl <= l && r <= jobr) {
+//    if (jobl <= l && r <= jobr) 
 //        lazy(rt, jobv, r - l + 1);
-//    }
 //    else {
 //        // 否则需要拆分区间，先下传懒标记
 //        int mid = l + ((r - l) >> 1);
