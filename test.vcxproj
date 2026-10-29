@@ -851,6 +851,7 @@
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\3-P2881 [USACO07MAR] Ranking the Cows G.cpp" />
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\4-P4306 [JSOI2010] 连通数.cpp" />
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\5-Ex - Directed Graph and Query.cpp" />
+    <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\6-P1347 [ECNA 2001] 排序.cpp" />
     <ClCompile Include="算法\算法全解\string.cpp" />
     <ClCompile Include="算法\算法全解\力扣\46.全排列.cpp" />
     <ClCompile Include="算法\算法全解\力扣\47.全排列II.cpp" />
