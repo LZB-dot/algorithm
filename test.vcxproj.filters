@@ -2288,5 +2288,8 @@
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\6-P1347 [ECNA 2001] 排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\161-树链剖分上\2-P3379 【模板】最近公共祖先（LCA）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

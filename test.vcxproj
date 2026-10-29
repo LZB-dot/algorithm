@@ -828,6 +828,7 @@
     <ClCompile Include="算法\算法全解\147-卡特兰数题型详解和取模处理\2-P1976 鸡蛋饼.cpp" />
     <ClCompile Include="算法\算法全解\147-卡特兰数题型详解和取模处理\3-P1722 矩阵 II.cpp" />
     <ClCompile Include="算法\算法全解\161-树链剖分上\1-P3384 【模板】重链剖分   树链剖分.cpp" />
+    <ClCompile Include="算法\算法全解\161-树链剖分上\2-P3379 【模板】最近公共祖先（LCA）.cpp" />
     <ClCompile Include="算法\算法全解\170-CDQ分治\1-P3810 【模板】三维偏序  陌上花开.cpp" />
     <ClCompile Include="算法\算法全解\170-CDQ分治\2-P3157 [CQOI2011] 动态逆序对.cpp" />
     <ClCompile Include="算法\算法全解\170-CDQ分治\3-P2163 [SHOI2007] 园丁的烦恼.cpp" />
