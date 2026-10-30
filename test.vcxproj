@@ -830,6 +830,7 @@
     <ClCompile Include="算法\算法全解\161-树链剖分上\1-P3384 【模板】重链剖分   树链剖分.cpp" />
     <ClCompile Include="算法\算法全解\161-树链剖分上\2-P3379 【模板】最近公共祖先（LCA）.cpp" />
     <ClCompile Include="算法\算法全解\162-树链剖分下\1-P3038 [USACO11DEC] Grass Planting G.cpp" />
+    <ClCompile Include="算法\算法全解\162-树链剖分下\4-P5903 【模板】树上 K 级祖先.cpp" />
     <ClCompile Include="算法\算法全解\170-CDQ分治\1-P3810 【模板】三维偏序  陌上花开.cpp" />
     <ClCompile Include="算法\算法全解\170-CDQ分治\2-P3157 [CQOI2011] 动态逆序对.cpp" />
     <ClCompile Include="算法\算法全解\170-CDQ分治\3-P2163 [SHOI2007] 园丁的烦恼.cpp" />

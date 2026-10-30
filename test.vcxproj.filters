@@ -2294,5 +2294,8 @@
     <ClCompile Include="算法\算法全解\162-树链剖分下\1-P3038 [USACO11DEC] Grass Planting G.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\162-树链剖分下\4-P5903 【模板】树上 K 级祖先.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
