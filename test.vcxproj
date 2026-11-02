@@ -849,6 +849,7 @@
     <ClCompile Include="算法\算法全解\190-强连通分量和缩点下\1-P3387 【模板】缩点  强连通分量.cpp" />
     <ClCompile Include="算法\算法全解\191-割边，边双连通分量和缩点\1-U582665 【模板】割边.cpp" />
     <ClCompile Include="算法\算法全解\191-割边，边双连通分量和缩点\2-P8436 【模板】边双连通分量.cpp" />
+    <ClCompile Include="算法\算法全解\193-割点和点双连通分量\1-P3388 【模板】割点.cpp" />
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\1-P5905 【模板】全源最短路（Johnson）.cpp" />
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\2-B3611 【模板】传递闭包.cpp" />
     <ClCompile Include="算法\算法全解\207-Johnson全源最短路，传递闭包\3-P2881 [USACO07MAR] Ranking the Cows G.cpp" />
