@@ -2300,5 +2300,8 @@
     <ClCompile Include="算法\算法全解\193-割点和点双连通分量\1-P3388 【模板】割点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\193-割点和点双连通分量\4-P8435 【模板】点双连通分量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
