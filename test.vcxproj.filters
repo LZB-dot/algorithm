@@ -2303,5 +2303,8 @@
     <ClCompile Include="算法\算法全解\193-割点和点双连通分量\4-P8435 【模板】点双连通分量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\163-树上启发式合并\1-U41492 树上数颜色.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
