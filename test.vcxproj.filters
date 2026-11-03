@@ -2309,5 +2309,8 @@
     <ClCompile Include="算法\算法全解\161-树链剖分上\3-P2590 [ZJOI2008] 树的统计.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\161-树链剖分上\4-P2146 [NOI2015] 软件包管理器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
