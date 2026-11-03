@@ -835,6 +835,7 @@
     <ClCompile Include="算法\算法全解\161-树链剖分上\6-P3976 [TJOI2015] 旅游.cpp" />
     <ClCompile Include="算法\算法全解\161-树链剖分上\7-P3979 遥远的国度.cpp" />
     <ClCompile Include="算法\算法全解\162-树链剖分下\1-P3038 [USACO11DEC] Grass Planting G.cpp" />
+    <ClCompile Include="算法\算法全解\162-树链剖分下\2-P1505 [国家集训队] 旅游.cpp" />
     <ClCompile Include="算法\算法全解\162-树链剖分下\4-P5903 【模板】树上 K 级祖先.cpp" />
     <ClCompile Include="算法\算法全解\163-树上启发式合并\1-U41492 树上数颜色.cpp" />
     <ClCompile Include="算法\算法全解\170-CDQ分治\1-P3810 【模板】三维偏序  陌上花开.cpp" />

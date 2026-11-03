@@ -2321,5 +2321,8 @@
     <ClCompile Include="算法\算法全解\161-树链剖分上\7-P3979 遥远的国度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\162-树链剖分下\2-P1505 [国家集训队] 旅游.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
