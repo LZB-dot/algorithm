@@ -2327,5 +2327,8 @@
     <ClCompile Include="算法\算法全解\162-树链剖分下\5-P10641 BZOJ3252 攻略.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="算法\算法全解\162-树链剖分下\3-P4315 月下“毛景树”.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
